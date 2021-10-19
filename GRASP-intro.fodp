@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><dc:title>GRASP introduction</dc:title><meta:initial-creator>Brian E Carpenter</meta:initial-creator><meta:creation-date>2020-12-26T13:42:38.440000000</meta:creation-date><dc:creator>Brian E Carpenter</dc:creator><dc:date>2021-09-13T15:56:33.799000000</dc:date><meta:editing-cycles>5</meta:editing-cycles><meta:editing-duration>PT22M29S</meta:editing-duration><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator><meta:document-statistic meta:object-count="242"/><meta:user-defined meta:name="AppVersion">15.0000</meta:user-defined><meta:user-defined meta:name="Company">UoA</meta:user-defined><meta:user-defined meta:name="HiddenSlides" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="MMClips" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="Notes" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="PresentationFormat" meta:value-type="string">Widescreen</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined></office:meta>
+ <office:meta><dc:title>GRASP introduction</dc:title><meta:initial-creator>Brian E Carpenter</meta:initial-creator><meta:creation-date>2020-12-26T13:42:38.440000000</meta:creation-date><dc:creator>Brian E Carpenter</dc:creator><dc:date>2021-10-19T15:03:43.387000000</dc:date><meta:editing-cycles>10</meta:editing-cycles><meta:editing-duration>PT1H22M1S</meta:editing-duration><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator><meta:document-statistic meta:object-count="246"/><meta:user-defined meta:name="AppVersion">15.0000</meta:user-defined><meta:user-defined meta:name="Company">UoA</meta:user-defined><meta:user-defined meta:name="HiddenSlides" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="MMClips" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="Notes" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="PresentationFormat" meta:value-type="string">Widescreen</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-1247</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-517</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">33870</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">19049</config:config-item>
    <config:config-item-map-indexed config:name="Views">
@@ -29,16 +29,16 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">9</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">1</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-2007</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-1156</config:config-item>
      <config:config-item config:name="VisibleAreaLeft" config:type="int">-517</config:config-item>
      <config:config-item config:name="VisibleAreaWidth" config:type="int">35096</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">23205</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">21502</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -157,7 +157,7 @@
   <draw:stroke-dash draw:name="Dashed_20__28_var_29__20_5" draw:display-name="Dashed (var) 5" draw:style="rect" draw:dots2="1" draw:dots2-length="0.848cm" draw:distance="0.318cm"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Segoe UI" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -2604,15 +2604,15 @@
   <style:style style:name="gr27" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:padding-top="0.13cm" fo:padding-bottom="0.13cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" fo:wrap-option="no-wrap" draw:shadow-color="#808080" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none"/>
   </style:style>
-  <style:style style:name="gr28" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
+  <style:style style:name="gr28" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L7">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="6.249cm" fo:min-width="28.831cm" fo:padding-top="0.282cm" fo:padding-bottom="0cm" fo:padding-left="0cm" fo:padding-right="0cm" fo:wrap-option="wrap" draw:shadow-color="#808080"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr29" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
+  <style:style style:name="gr29" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L7">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="6.284cm" fo:min-width="14.874cm" fo:padding-top="0.247cm" fo:padding-bottom="0cm" fo:padding-left="0cm" fo:padding-right="0cm" fo:wrap-option="wrap" draw:shadow-color="#808080"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr30" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
+  <style:style style:name="gr30" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L7">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="6.284cm" fo:min-width="14.874cm" fo:padding-top="0.247cm" fo:padding-bottom="0cm" fo:padding-left="0cm" fo:padding-right="0cm" fo:wrap-option="wrap" draw:shadow-color="#808080"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
@@ -2876,19 +2876,21 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph">
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph">
-   <style:paragraph-properties fo:text-align="end"/>
+   <style:paragraph-properties fo:text-align="end" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties fo:text-align="end"/>
+   <style:paragraph-properties fo:text-align="end" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph">
@@ -2963,56 +2965,87 @@
   </style:style>
   <style:style style:name="P25" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-align="start" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict">
+    <style:tab-stops>
+     <style:tab-stop style:position="0cm"/>
+     <style:tab-stop style:position="0.317cm"/>
+     <style:tab-stop style:position="1.587cm"/>
+     <style:tab-stop style:position="2.857cm"/>
+     <style:tab-stop style:position="4.127cm"/>
+     <style:tab-stop style:position="5.397cm"/>
+     <style:tab-stop style:position="6.667cm"/>
+     <style:tab-stop style:position="7.937cm"/>
+     <style:tab-stop style:position="9.207cm"/>
+     <style:tab-stop style:position="10.477cm"/>
+     <style:tab-stop style:position="11.747cm"/>
+     <style:tab-stop style:position="13.017cm"/>
+     <style:tab-stop style:position="14.287cm"/>
+     <style:tab-stop style:position="15.557cm"/>
+     <style:tab-stop style:position="16.827cm"/>
+     <style:tab-stop style:position="18.097cm"/>
+     <style:tab-stop style:position="19.367cm"/>
+     <style:tab-stop style:position="20.637cm"/>
+     <style:tab-stop style:position="21.907cm"/>
+     <style:tab-stop style:position="23.177cm"/>
+     <style:tab-stop style:position="24.447cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="P27" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.401cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="83%" fo:text-align="center" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
   </style:style>
+  <style:style style:name="P28" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.401cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
+  </style:style>
   <style:style style:name="P30" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph">
+  <style:style style:name="P32" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-indent="-0.856cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-align="start" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb"/>
-  </style:style>
   <style:style style:name="P33" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="true"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P34" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-align="start" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="true"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="true"/>
   </style:style>
   <style:style style:name="P36" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="90%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P37" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="true"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="90%" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffcc"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="true"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph">
+  <style:style style:name="P40" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffcc99"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="true"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph">
+  <style:style style:name="P41" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="true"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph">
+  <style:style style:name="P42" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-align="start" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict">
     <style:tab-stops>
      <style:tab-stop style:position="0cm"/>
@@ -3043,10 +3076,10 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph">
+  <style:style style:name="P43" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-align="start" fo:text-indent="-0.856cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph">
+  <style:style style:name="P44" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-align="start" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict">
     <style:tab-stops>
      <style:tab-stop style:position="0cm"/>
@@ -3083,7 +3116,7 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph">
+  <style:style style:name="P45" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-align="start" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict">
     <style:tab-stops>
      <style:tab-stop style:position="-0.577cm"/>
@@ -3120,10 +3153,10 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph">
+  <style:style style:name="P46" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-align="start" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph">
+  <style:style style:name="P47" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0.952cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-indent="-0.913cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -3148,60 +3181,66 @@
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="24pt" fo:language="en" fo:country="GB" style:font-name-asian="ＭＳ Ｐゴシック" style:font-size-asian="24pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="ＭＳ Ｐゴシック" style:font-size-complex="24pt" style:language-complex="en" style:country-complex="GB"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:font-size="32pt" fo:language="en" fo:country="US" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:font-size="32pt" fo:language="en" fo:country="US" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#3e3eeb" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
    <style:text-properties fo:color="#000080" loext:opacity="100%" fo:font-size="40pt" fo:language="en" fo:country="US" style:font-size-asian="40pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="40pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-style="italic" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="italic" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-size="32pt" fo:language="en" fo:country="US" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Calibri" fo:font-size="32pt" fo:language="en" fo:country="US" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties fo:font-size="32pt" fo:language="en" fo:country="US" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="28pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:font-relief="none"/>
+   <style:text-properties fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-style="italic" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="italic" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Calibri" fo:font-size="28pt" fo:language="en" fo:country="US" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Calibri" fo:font-size="32pt" fo:language="en" fo:country="US" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="26pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="26pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="26pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:font-relief="none"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="28pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:font-relief="none"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:font-size="28pt" fo:language="en" fo:country="US" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Calibri" fo:font-size="28pt" fo:language="en" fo:country="US" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties fo:color="#355269" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="40pt" fo:language="en" fo:country="US" style:font-size-asian="40pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="40pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="26pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="26pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="26pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:font-relief="none"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Calibri Light" fo:font-size="44pt" fo:language="en" fo:country="US" style:font-size-asian="44pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="44pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties fo:font-size="28pt" fo:language="en" fo:country="US" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="18pt" fo:language="en" fo:country="GB" style:font-size-asian="18pt" style:language-asian="en" style:country-asian="GB" style:font-size-complex="18pt" style:language-complex="en" style:country-complex="GB"/>
+   <style:text-properties fo:color="#355269" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="40pt" fo:language="en" fo:country="US" style:font-size-asian="40pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="40pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Arial" fo:font-size="18pt" fo:language="en" fo:country="GB" style:font-size-asian="18pt" style:language-asian="en" style:country-asian="GB" style:font-size-complex="18pt" style:language-complex="en" style:country-complex="GB"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Calibri Light" fo:font-size="44pt" fo:language="en" fo:country="US" style:font-size-asian="44pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="44pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties fo:font-size="40pt" fo:language="en" fo:country="US" style:font-size-asian="40pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="40pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="18pt" fo:language="en" fo:country="GB" style:font-size-asian="18pt" style:language-asian="en" style:country-asian="GB" style:font-size-complex="18pt" style:language-complex="en" style:country-complex="GB"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="28pt" fo:language="en" fo:country="US" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Arial" fo:font-size="18pt" fo:language="en" fo:country="GB" style:font-size-asian="18pt" style:language-asian="en" style:country-asian="GB" style:font-size-complex="18pt" style:language-complex="en" style:country-complex="GB"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="28pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-size="40pt" fo:language="en" fo:country="US" style:font-size-asian="40pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="40pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties style:font-name="Courier New1" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Consolas1" fo:font-size="28pt" fo:language="en" fo:country="US" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties fo:font-size="36pt" fo:language="en" fo:country="US" style:font-size-asian="36pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="36pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties style:font-name="Consolas1" fo:font-size="28pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
+   <style:text-properties style:font-name="Courier New1" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties fo:font-size="36pt" fo:language="en" fo:country="US" style:font-size-asian="36pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="36pt" style:language-complex="en" style:country-complex="US"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
    <style:text-properties fo:font-size="24pt" fo:language="en" fo:country="US" style:font-size-asian="24pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="24pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -3374,7 +3413,7 @@
   </text:list-style>
   <text:list-style style:name="L5">
    <text:list-level-style-bullet text:level="1" text:bullet-char="">
-    <style:list-level-properties text:space-before="0.291cm" text:min-label-width="0.864cm"/>
+    <style:list-level-properties text:space-before="0.291cm" text:min-label-width="0.829cm"/>
     <style:text-properties fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:color="#000000" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="2" text:bullet-char="–">
@@ -3415,48 +3454,6 @@
    </text:list-level-style-bullet>
   </text:list-style>
   <text:list-style style:name="L6">
-   <text:list-level-style-bullet text:level="1" text:bullet-char="»">
-    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
-    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:bullet-char="">
-    <style:list-level-properties text:space-before="1.472cm" text:min-label-width="0.882cm"/>
-    <style:text-properties fo:font-family="Symbol" style:font-pitch="variable" style:font-charset="x-symbol" fo:color="#000000" fo:font-size="75%"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:bullet-char="•">
-    <style:list-level-properties text:space-before="2.54cm" text:min-label-width="0.635cm"/>
-    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:bullet-char="–">
-    <style:list-level-properties text:space-before="3.81cm" text:min-label-width="0.635cm"/>
-    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:bullet-char="»">
-    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
-    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:bullet-char="»">
-    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
-    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:bullet-char="»">
-    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
-    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:bullet-char="»">
-    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
-    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:bullet-char="»">
-    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
-    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:bullet-char="»">
-    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
-    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L7">
    <text:list-level-style-number text:level="1" style:num-format="">
     <style:list-level-properties/>
     <style:text-properties fo:color="#000080" fo:font-size="100%"/>
@@ -3498,7 +3495,91 @@
     <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
   </text:list-style>
+  <text:list-style style:name="L7">
+   <text:list-level-style-bullet text:level="1" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.291cm" text:min-label-width="0.864cm"/>
+    <style:text-properties fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:color="#000000" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.27cm" text:min-label-width="0.793cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.54cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:bullet-char="–">
+    <style:list-level-properties text:space-before="3.81cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
   <text:list-style style:name="L8">
+   <text:list-level-style-bullet text:level="1" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.472cm" text:min-label-width="0.882cm"/>
+    <style:text-properties fo:font-family="Symbol" style:font-pitch="variable" style:font-charset="x-symbol" fo:color="#000000" fo:font-size="75%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.54cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:bullet-char="–">
+    <style:list-level-properties text:space-before="3.81cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L9">
    <text:list-level-style-bullet text:level="1" text:bullet-char="•">
     <style:list-level-properties/>
     <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
@@ -3540,7 +3621,7 @@
     <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
    </text:list-level-style-bullet>
   </text:list-style>
-  <text:list-style style:name="L9">
+  <text:list-style style:name="L10">
    <text:list-level-style-number text:level="1" style:num-format="">
     <style:list-level-properties/>
     <style:text-properties fo:color="#355269" fo:font-size="100%"/>
@@ -3582,7 +3663,7 @@
     <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
   </text:list-style>
-  <text:list-style style:name="L10">
+  <text:list-style style:name="L11">
    <text:list-level-style-bullet text:level="1" text:bullet-char="">
     <style:list-level-properties text:space-before="0.291cm" text:min-label-width="0.286cm"/>
     <style:text-properties fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:color="#000000" fo:font-size="45%"/>
@@ -3624,7 +3705,7 @@
     <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
    </text:list-level-style-bullet>
   </text:list-style>
-  <text:list-style style:name="L11">
+  <text:list-style style:name="L12">
    <text:list-level-style-bullet text:level="1" text:bullet-char="»">
     <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
     <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
@@ -3704,10 +3785,10 @@
    </draw:frame>
   </style:handout-master>
   <style:master-page style:name="Default" style:page-layout-name="PM1" draw:style-name="dp1">
-   <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P6" draw:layer="backgroundobjects" svg:width="2.496cm" svg:height="0.843cm" svg:x="3.4cm" svg:y="17.754cm">
+   <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P6" draw:layer="backgroundobjects" svg:width="3.249cm" svg:height="0.843cm" svg:x="3.024cm" svg:y="17.754cm">
     <text:list text:style-name="L1">
      <text:list-header>
-      <text:p text:style-name="P5"><text:span text:style-name="T2">May 2021</text:span></text:p>
+      <text:p text:style-name="P5"><text:span text:style-name="T2">October 2021</text:span></text:p>
      </text:list-header>
     </text:list>
     <draw:enhanced-geometry svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="rectangle" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
@@ -4763,7 +4844,7 @@
       <text:list text:style-name="L1">
        <text:list-header>
         <text:p text:style-name="P23"><text:span text:style-name="T7">Brian Carpenter</text:span></text:p>
-        <text:p text:style-name="P23"><text:span text:style-name="T7">May 2021</text:span></text:p>
+        <text:p text:style-name="P23"><text:span text:style-name="T7">October 2021</text:span></text:p>
         <text:p text:style-name="P23"><text:span text:style-name="T7"/></text:p>
         <text:p text:style-name="P24"><text:span text:style-name="T7">RFC8990</text:span></text:p>
         <text:p text:style-name="P24"><text:span text:style-name="T7">RFC8991</text:span></text:p>
@@ -4792,42 +4873,72 @@
      <draw:text-box>
       <text:list text:style-name="L5">
        <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T8">Automatic</text:span></text:p>
+        <text:p text:style-name="P26"><text:span text:style-name="T8">For general background on the IETF approach to autonomic networking, see the following article:</text:span></text:p>
+        <text:p text:style-name="P26"><text:span text:style-name="T9"><text:a xlink:href="https://ipj.dreamhosters.com/wp-content/uploads/2021/10/243-ipj.pdf" xlink:type="simple">Autonomic Networking Gets Serious</text:a></text:span><text:span text:style-name="T8">, Internet Protocol Journal 24(3), pp2-18, October 2021.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P26"><text:span text:style-name="T8">For a detailed tutorial on GRASP, see </text:span><text:span text:style-name="T9"><text:a xlink:href="https://github.com/becarpenter/graspdoc/raw/main/GRASP-tutorial.pdf" xlink:type="simple">https://github.com/becarpenter/graspdoc/raw/main/GRASP-tutorial.pdf</text:a></text:span><text:span text:style-name="T8"><text:s/></text:span></text:p>
        </text:list-item>
       </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.202cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
       <text:list text:style-name="L6">
+       <text:list-header>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">Note</text:span></text:p>
+       </text:list-header>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="2" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr15" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page3" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame presentation:style-name="pr16" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="13.688cm" svg:x="1.693cm" svg:y="3.872cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L7">
+       <text:list-item>
+        <text:p text:style-name="P28"><text:span text:style-name="T11">Automatic</text:span></text:p>
+       </text:list-item>
+      </text:list>
+      <text:list text:style-name="L8">
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T8">done </text:span><text:span text:style-name="T9">as if by machine</text:span><text:span text:style-name="T8">; self-acting or</text:span><text:span text:style-name="T8"><text:line-break/></text:span><text:span text:style-name="T8">self-regulating mechanism</text:span></text:p>
+          <text:p text:style-name="P29"><text:span text:style-name="T11">done </text:span><text:span text:style-name="T12">as if by machine</text:span><text:span text:style-name="T11">; self-acting or</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T11">self-regulating mechanism</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
       </text:list>
-      <text:list text:style-name="L5">
+      <text:list text:style-name="L7">
        <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">Autonomous</text:span></text:p>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">Autonomous</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:list text:style-name="L6">
+      <text:list text:style-name="L8">
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T9">without outside control</text:span><text:span text:style-name="T8">; responding, reacting,</text:span><text:span text:style-name="T8"><text:line-break/></text:span><text:span text:style-name="T8">or developing independently of the whole </text:span></text:p>
+          <text:p text:style-name="P29"><text:span text:style-name="T12">without outside control</text:span><text:span text:style-name="T11">; responding, reacting,</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T11">or developing independently of the whole </text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
       </text:list>
-      <text:list text:style-name="L5">
+      <text:list text:style-name="L7">
        <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">Autonomic</text:span></text:p>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">Autonomic</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:list text:style-name="L6">
+      <text:list text:style-name="L8">
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T8">occurring involuntarily or </text:span><text:span text:style-name="T9">spontaneously</text:span><text:span text:style-name="T8">;</text:span><text:span text:style-name="T8"><text:line-break/></text:span><text:span text:style-name="T8">occurring as a result of </text:span><text:span text:style-name="T9">internal stimuli</text:span></text:p>
+          <text:p text:style-name="P29"><text:span text:style-name="T11">occurring involuntarily or </text:span><text:span text:style-name="T12">spontaneously</text:span><text:span text:style-name="T11">;</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T11">occurring as a result of </text:span><text:span text:style-name="T12">internal stimuli</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -4836,14 +4947,14 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.202cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L7">
+      <text:list text:style-name="L6">
        <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">English lesson</text:span></text:p>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">English lesson</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="4.63cm" svg:height="4.269cm" svg:x="21.061cm" svg:y="3.607cm">
+    <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="4.63cm" svg:height="4.269cm" svg:x="21.061cm" svg:y="3.607cm">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAH8AAAB1CAIAAADoRKkiAAAkgklEQVR4nO2de7CVVfnHF0e8
        llnWLy3D5CYgBnGX0A5pSoLZoENpY14wnP7QhlQs/kibampqpiGTpqlUSCeTvI0hGCMRCMHh
@@ -5027,7 +5138,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="5.291cm" svg:height="3.986cm" svg:x="25.268cm" svg:y="8.436cm">
+    <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="5.291cm" svg:height="3.986cm" svg:x="25.268cm" svg:y="8.436cm">
      <draw:image draw:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
        AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEB
@@ -5322,7 +5433,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="4.26cm" svg:height="5.248cm" svg:x="28.659cm" svg:y="13.379cm">
+    <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="4.26cm" svg:height="5.248cm" svg:x="28.659cm" svg:y="13.379cm">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAMoAAAD5CAMAAABRVVqZAAAAjVBMVEX///8AAAD39/f6+vr0
        9PTs7Oz8/PzZ2dnx8fHMzMzl5eXd3d0pKSnHx8fj4+Py8vJVVVWLi4uqqqqbm5vAwMDIyMi0
@@ -5429,7 +5540,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="5.398cm" svg:height="5.398cm" svg:x="23.261cm" svg:y="13.229cm">
+    <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="5.398cm" svg:height="5.398cm" svg:x="23.261cm" svg:y="13.229cm">
      <draw:image draw:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw4PDhUPEBIVDhUOFRUVFRYVDxAVFRAVFRYW
        FhcSFRUYHSggGBolHRcVITEhJSkrLi4uFx8zODYtNygtLisBCgoKBQUFDgUFDisZExkrKysr
@@ -5535,52 +5646,6 @@
      </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="2" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr15" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
-      <draw:text-box/>
-     </draw:frame>
-    </presentation:notes>
-   </draw:page>
-   <draw:page draw:name="page3" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.202cm" presentation:class="title" presentation:user-transformed="true">
-     <draw:text-box>
-      <text:list text:style-name="L7">
-       <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">Terminology (1)</text:span></text:p>
-       </text:list-header>
-      </text:list>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame presentation:style-name="pr16" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="13.688cm" svg:x="1.424cm" svg:y="3.872cm" presentation:class="outline" presentation:user-transformed="true">
-     <draw:text-box>
-      <text:list text:style-name="L5">
-       <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T8">Autonomic Nervous System: a control system that acts largely unconsciously and regulates bodily functions such as heart rate.</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">Autonomic Computing: self-managing distributed computing resources, adapting to unpredictable changes while hiding intrinsic complexity from operators and users (IBM, 2001).</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">Autonomic Network: Self-managing (self-configuring, self-protecting, self-healing, self-optimizing) but allowing high-level guidance by a central entity (&quot;Intent&quot;)</text:span></text:p>
-       </text:list-item>
-      </text:list>
-      <text:list text:style-name="L6">
-       <text:list-item>
-        <text:list>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T8">&quot;Plug and play for the ISP&quot; or &quot;plug and play for the enterprise&quot;</text:span></text:p>
-         </text:list-item>
-        </text:list>
-       </text:list-item>
-      </text:list>
-      <text:list text:style-name="L3">
-       <text:list-header>
-        <text:p text:style-name="P31"><text:span text:style-name="T8"/></text:p>
-       </text:list-header>
-      </text:list>
-     </draw:text-box>
-    </draw:frame>
-    <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="3" presentation:class="page"/>
      <draw:frame presentation:style-name="pr15" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
@@ -5590,32 +5655,38 @@
    <draw:page draw:name="page4" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.202cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L7">
+      <text:list text:style-name="L6">
        <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">Terminology (2)</text:span></text:p>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">Terminology (1)</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr16" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="13.688cm" svg:x="1.693cm" svg:y="3.872cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr16" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="13.688cm" svg:x="1.424cm" svg:y="3.872cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L5">
+      <text:list text:style-name="L7">
        <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T8">Autonomic Function: A specific self-managing feature or function.</text:span></text:p>
+        <text:p text:style-name="P28"><text:span text:style-name="T11">Autonomic Nervous System: a control system that acts largely unconsciously and regulates bodily functions such as heart rate.</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">Autonomic Service Agent (ASA): An agent that implements an autonomic function, in part (for a distributed function) or whole.</text:span></text:p>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">Autonomic Computing: self-managing distributed computing resources, adapting to unpredictable changes while hiding intrinsic complexity from operators and users (IBM, 2001).</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">Autonomic Node: A node that employs autonomic functions</text:span></text:p>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">Autonomic Network: Self-managing (self-configuring, self-protecting, self-healing, self-optimizing) but allowing high-level guidance by a central entity (&quot;Intent&quot;)</text:span></text:p>
        </text:list-item>
+      </text:list>
+      <text:list text:style-name="L8">
        <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">Autonomic Control Plane (ACP): Self-configuring fully secure virtual network used for all autonomic messaging.</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T11">&quot;Plug and play for the ISP&quot; or &quot;plug and play for the enterprise&quot;</text:span></text:p>
+         </text:list-item>
+        </text:list>
        </text:list-item>
       </text:list>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p text:style-name="P31"><text:span text:style-name="T11">For more details <text:s/>see RFC7575 and RFC8993</text:span></text:p>
+        <text:p text:style-name="P32"><text:span text:style-name="T11"/></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
@@ -5627,85 +5698,39 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page5" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL3T18">
-    <draw:frame presentation:style-name="pr18" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="4.035cm" svg:x="4.233cm" svg:y="-0.001cm" presentation:class="title" presentation:user-transformed="true">
+   <draw:page draw:name="page5" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.202cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L7">
+      <text:list text:style-name="L6">
        <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">Autonomic Networking Integrated Model and Approach (ANIMA) WG</text:span></text:p>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">Terminology (2)</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr28" draw:text-style-name="P33" draw:layer="layout" svg:width="28.831cm" svg:height="6.531cm" svg:x="1.693cm" svg:y="3.872cm">
-     <text:list text:style-name="L5">
-      <text:list-item>
-       <text:p text:style-name="P26"><text:span text:style-name="T12">Initial work items (RFCs imminent)</text:span></text:p>
-      </text:list-item>
-     </text:list>
-     <text:list text:style-name="L8">
-      <text:list-item>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P32"><text:span text:style-name="T13">Bootstrapping &amp; trust infrastructure</text:span></text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P32"><text:span text:style-name="T13">Secure Autonomic Control Plane (ACP)</text:span></text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P32"><text:span text:style-name="T13">Discovery for autonomic nodes</text:span></text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P32"><text:span text:style-name="T13">Negotiation &amp; synchronization for autonomic nodes</text:span></text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="mso-spt202" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-    </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr29" draw:text-style-name="P35" draw:layer="layout" svg:width="14.874cm" svg:height="6.531cm" svg:x="17.313cm" svg:y="11.024cm">
-     <text:list text:style-name="L5">
-      <text:list-item>
-       <text:p text:style-name="P34"><text:span text:style-name="T14">Left for much later</text:span></text:p>
-      </text:list-item>
-     </text:list>
-     <text:list text:style-name="L8">
-      <text:list-item>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P32"><text:span text:style-name="T15">Tie in to machine learning and other AI techniques</text:span></text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="mso-spt202" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-    </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr30" draw:text-style-name="P35" draw:layer="layout" svg:width="14.874cm" svg:height="6.531cm" svg:x="1.693cm" svg:y="11.024cm">
-     <text:list text:style-name="L5">
-      <text:list-item>
-       <text:p text:style-name="P34"><text:span text:style-name="T14">Next steps</text:span></text:p>
-      </text:list-item>
-     </text:list>
-     <text:list text:style-name="L8">
-      <text:list-item>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P32"><text:span text:style-name="T13">Intent (high level policy)</text:span></text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P32"><text:span text:style-name="T13">Defining the domain boundary</text:span></text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P32"><text:span text:style-name="T13">ASA life cycle, authorization and coordination</text:span></text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P32"><text:span text:style-name="T13">Reporting</text:span></text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="mso-spt202" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-    </draw:custom-shape>
+    <draw:frame presentation:style-name="pr16" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="13.688cm" svg:x="1.693cm" svg:y="3.872cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L7">
+       <text:list-item>
+        <text:p text:style-name="P28"><text:span text:style-name="T11">Autonomic Function: A specific self-managing feature or function.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">Autonomic Service Agent (ASA): An agent that implements an autonomic function, in part (for a distributed function) or whole.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">Autonomic Node: A node that employs autonomic functions</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">Autonomic Control Plane (ACP): Self-configuring fully secure virtual network used for all autonomic messaging.</text:span></text:p>
+       </text:list-item>
+      </text:list>
+      <text:list text:style-name="L3">
+       <text:list-header>
+        <text:p text:style-name="P32"><text:span text:style-name="T13">For more details <text:s/>see RFC7575 and RFC8993</text:span></text:p>
+       </text:list-header>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="5" presentation:class="page"/>
      <draw:frame presentation:style-name="pr15" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
@@ -5713,28 +5738,85 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page6" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.202cm" presentation:class="title" presentation:user-transformed="true">
+   <draw:page draw:name="page6" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL3T18">
+    <draw:frame presentation:style-name="pr18" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="4.035cm" svg:x="4.233cm" svg:y="-0.001cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L7">
+      <text:list text:style-name="L6">
        <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">Bootstrap and ACP</text:span></text:p>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">Autonomic Networking Integrated Model and Approach (ANIMA) WG</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr19" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="11.047cm" svg:x="1.693cm" svg:y="4.457cm" presentation:class="outline" presentation:user-transformed="true">
-     <draw:text-box>
-      <text:list text:style-name="L5">
-       <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T8">Secure bootstrap – all nodes must start (out of the box or after a factory reset) by using a registrar to authenticate themselves and obtain a domain certificate. This is coordinated with related work for IoT devices. No human intervention except to create the registrar.</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">ACP – the ACP will bootstrap itself using only link-local IPv6 addresses and IPv6 Unique Local Address prefix. All links secured (IPsec). No human intervention except to define the domain boundary.</text:span></text:p>
-       </text:list-item>
-      </text:list>
-     </draw:text-box>
-    </draw:frame>
+    <draw:custom-shape draw:style-name="gr28" draw:text-style-name="P35" draw:layer="layout" svg:width="28.831cm" svg:height="6.531cm" svg:x="1.693cm" svg:y="3.872cm">
+     <text:list text:style-name="L7">
+      <text:list-item>
+       <text:p text:style-name="P33"><text:span text:style-name="T14">Initial work items (RFCs imminent)</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <text:list text:style-name="L9">
+      <text:list-item>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P34"><text:span text:style-name="T15">Bootstrapping &amp; trust infrastructure</text:span></text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P34"><text:span text:style-name="T15">Secure Autonomic Control Plane (ACP)</text:span></text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P34"><text:span text:style-name="T15">Discovery for autonomic nodes</text:span></text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P34"><text:span text:style-name="T15">Negotiation &amp; synchronization for autonomic nodes</text:span></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="mso-spt202" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr29" draw:text-style-name="P37" draw:layer="layout" svg:width="14.874cm" svg:height="6.531cm" svg:x="17.313cm" svg:y="11.024cm">
+     <text:list text:style-name="L7">
+      <text:list-item>
+       <text:p text:style-name="P36"><text:span text:style-name="T16">Left for much later</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <text:list text:style-name="L9">
+      <text:list-item>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P34"><text:span text:style-name="T17">Tie in to machine learning and other AI techniques</text:span></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="mso-spt202" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr30" draw:text-style-name="P37" draw:layer="layout" svg:width="14.874cm" svg:height="6.531cm" svg:x="1.693cm" svg:y="11.024cm">
+     <text:list text:style-name="L7">
+      <text:list-item>
+       <text:p text:style-name="P36"><text:span text:style-name="T16">Next steps</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <text:list text:style-name="L9">
+      <text:list-item>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P34"><text:span text:style-name="T15">Intent (high level policy)</text:span></text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P34"><text:span text:style-name="T15">Defining the domain boundary</text:span></text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P34"><text:span text:style-name="T15">ASA life cycle, authorization and coordination</text:span></text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P34"><text:span text:style-name="T15">Reporting</text:span></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="mso-spt202" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="6" presentation:class="page"/>
      <draw:frame presentation:style-name="pr15" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
@@ -5743,55 +5825,24 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page7" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <draw:frame presentation:style-name="pr20" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="3.439cm" svg:x="4.233cm" svg:y="0.471cm" presentation:class="title" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.202cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L7">
+      <text:list text:style-name="L6">
        <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">GeneRic Autonomic Signaling Protocol (GRASP)</text:span></text:p>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">Bootstrap and ACP</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr19" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="11.047cm" svg:x="1.693cm" svg:y="4.457cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L5">
+      <text:list text:style-name="L7">
        <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T8">GRASP will be used for signaling between ASAs</text:span></text:p>
+        <text:p text:style-name="P28"><text:span text:style-name="T11">Secure bootstrap – all nodes must start (out of the box or after a factory reset) by using a registrar to authenticate themselves and obtain a domain certificate. This is coordinated with related work for IoT devices. No human intervention except to create the registrar.</text:span></text:p>
        </text:list-item>
-      </text:list>
-      <text:list text:style-name="L6">
        <text:list-item>
-        <text:list>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T16">That includes the special-purpose ASAs that support both secure bootstrap &amp; ACP creation</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T16">After that, GRASP runs over the ACP to guarantee security</text:span></text:p>
-         </text:list-item>
-        </text:list>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">ACP – the ACP will bootstrap itself using only link-local IPv6 addresses and IPv6 Unique Local Address prefix. All links secured (IPsec). No human intervention except to define the domain boundary.</text:span></text:p>
        </text:list-item>
-      </text:list>
-      <text:list text:style-name="L5">
-       <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">GRASP provides discovery, flooding, synchronization and negotiation for the </text:span><text:span text:style-name="T9">technical objectives</text:span><text:span text:style-name="T8"> supported by ASAs</text:span></text:p>
-       </text:list-item>
-      </text:list>
-      <text:list text:style-name="L6">
-       <text:list-item>
-        <text:list>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T16">Based on CBOR (Concise Binary Object Representation) </text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T16">Objectives can be expressed in JSON or Python-like syntax &amp; semantics</text:span></text:p>
-         </text:list-item>
-        </text:list>
-       </text:list-item>
-      </text:list>
-      <text:list text:style-name="L3">
-       <text:list-header>
-        <text:p text:style-name="P31"><text:span text:style-name="T16"/></text:p>
-       </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
@@ -5802,12 +5853,72 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page8" draw:style-name="dp4" draw:master-page-name="Title1" presentation:presentation-page-layout-name="AL4T19">
+   <draw:page draw:name="page8" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame presentation:style-name="pr20" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="3.439cm" svg:x="4.233cm" svg:y="0.471cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L6">
+       <text:list-header>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">GeneRic Autonomic Signaling Protocol (GRASP)</text:span></text:p>
+       </text:list-header>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr19" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="11.047cm" svg:x="1.693cm" svg:y="4.457cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L7">
+       <text:list-item>
+        <text:p text:style-name="P28"><text:span text:style-name="T11">GRASP will be used for signaling between ASAs</text:span></text:p>
+       </text:list-item>
+      </text:list>
+      <text:list text:style-name="L8">
+       <text:list-item>
+        <text:list>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T18">That includes the special-purpose ASAs that support both secure bootstrap &amp; ACP creation</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T18">After that, GRASP runs over the ACP to guarantee security</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+      <text:list text:style-name="L7">
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">GRASP provides discovery, flooding, synchronization and negotiation for the </text:span><text:span text:style-name="T12">technical objectives</text:span><text:span text:style-name="T11"> supported by ASAs</text:span></text:p>
+       </text:list-item>
+      </text:list>
+      <text:list text:style-name="L8">
+       <text:list-item>
+        <text:list>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T18">Based on CBOR (Concise Binary Object Representation) </text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T18">Objectives can be expressed in JSON or Python-like syntax &amp; semantics</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+      <text:list text:style-name="L3">
+       <text:list-header>
+        <text:p text:style-name="P32"><text:span text:style-name="T18"/></text:p>
+       </text:list-header>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="8" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr15" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page9" draw:style-name="dp4" draw:master-page-name="Title1" presentation:presentation-page-layout-name="AL4T19">
     <draw:frame presentation:style-name="pr21" draw:text-style-name="P15" draw:layer="layout" svg:width="29.21cm" svg:height="3.682cm" svg:x="5.054cm" svg:y="0.763cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L9">
+      <text:list text:style-name="L10">
        <text:list-header>
-        <text:p text:style-name="P36"><text:span text:style-name="T17">Reference Model – High Level View</text:span><text:span text:style-name="T18"><text:line-break/></text:span><text:span text:style-name="T18"/></text:p>
+        <text:p text:style-name="P38"><text:span text:style-name="T19">Reference Model – High Level View</text:span><text:span text:style-name="T20"><text:line-break/></text:span><text:span text:style-name="T20"/></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
@@ -5824,7 +5935,7 @@
     <draw:custom-shape draw:style-name="gr32" draw:text-style-name="P6" draw:layer="layout" svg:width="12.275cm" svg:height="1.013cm" svg:x="8.044cm" svg:y="17.022cm">
      <text:list text:style-name="L1">
       <text:list-header>
-       <text:p text:style-name="P5"><text:span text:style-name="T19">Network with autonomic functions (RFC8993)</text:span></text:p>
+       <text:p text:style-name="P5"><text:span text:style-name="T21">Network with autonomic functions (RFC8993)</text:span></text:p>
       </text:list-header>
      </text:list>
      <draw:enhanced-geometry svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="rectangle" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
@@ -5834,7 +5945,7 @@
       <draw:equation draw:name="f3" draw:formula="9479"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr33" draw:text-style-name="P37" draw:layer="layout" svg:width="2.774cm" svg:height="11.602cm" svg:x="5.812cm" svg:y="4.26cm">
+    <draw:custom-shape draw:style-name="gr33" draw:text-style-name="P39" draw:layer="layout" svg:width="2.774cm" svg:height="11.602cm" svg:x="5.812cm" svg:y="4.26cm">
      <text:list text:style-name="L1">
       <text:list-header>
        <text:p text:style-name="P22"><text:span text:style-name="T2">Node 1</text:span></text:p>
@@ -5847,7 +5958,7 @@
       <draw:equation draw:name="f3" draw:formula="2773"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr34" draw:text-style-name="P37" draw:layer="layout" svg:width="2.773cm" svg:height="11.602cm" svg:x="9.953cm" svg:y="4.26cm">
+    <draw:custom-shape draw:style-name="gr34" draw:text-style-name="P39" draw:layer="layout" svg:width="2.773cm" svg:height="11.602cm" svg:x="9.953cm" svg:y="4.26cm">
      <text:list text:style-name="L1">
       <text:list-header>
        <text:p text:style-name="P22"><text:span text:style-name="T2">Node 2</text:span></text:p>
@@ -5860,7 +5971,7 @@
       <draw:equation draw:name="f3" draw:formula="2773"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr35" draw:text-style-name="P37" draw:layer="layout" svg:width="2.774cm" svg:height="11.602cm" svg:x="14.089cm" svg:y="4.26cm">
+    <draw:custom-shape draw:style-name="gr35" draw:text-style-name="P39" draw:layer="layout" svg:width="2.774cm" svg:height="11.602cm" svg:x="14.089cm" svg:y="4.26cm">
      <text:list text:style-name="L1">
       <text:list-header>
        <text:p text:style-name="P22"><text:span text:style-name="T2">Node 3</text:span></text:p>
@@ -5873,7 +5984,7 @@
       <draw:equation draw:name="f3" draw:formula="2773"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr36" draw:text-style-name="P37" draw:layer="layout" svg:width="2.774cm" svg:height="11.602cm" svg:x="18.225cm" svg:y="4.26cm">
+    <draw:custom-shape draw:style-name="gr36" draw:text-style-name="P39" draw:layer="layout" svg:width="2.774cm" svg:height="11.602cm" svg:x="18.225cm" svg:y="4.26cm">
      <text:list text:style-name="L1">
       <text:list-header>
        <text:p text:style-name="P22"><text:span text:style-name="T2">Node 4</text:span></text:p>
@@ -5886,7 +5997,7 @@
       <draw:equation draw:name="f3" draw:formula="2773"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr37" draw:text-style-name="P37" draw:layer="layout" svg:width="2.774cm" svg:height="11.602cm" svg:x="22.366cm" svg:y="4.26cm">
+    <draw:custom-shape draw:style-name="gr37" draw:text-style-name="P39" draw:layer="layout" svg:width="2.774cm" svg:height="11.602cm" svg:x="22.366cm" svg:y="4.26cm">
      <text:list text:style-name="L1">
       <text:list-header>
        <text:p text:style-name="P22"><text:span text:style-name="T2">Node 5</text:span></text:p>
@@ -5899,11 +6010,11 @@
       <draw:equation draw:name="f3" draw:formula="2773"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr38" draw:text-style-name="P38" draw:layer="layout" svg:width="19.8cm" svg:height="1.658cm" svg:x="5.565cm" svg:y="9.657cm">
+    <draw:custom-shape draw:style-name="gr38" draw:text-style-name="P40" draw:layer="layout" svg:width="19.8cm" svg:height="1.658cm" svg:x="5.565cm" svg:y="9.657cm">
      <text:list text:style-name="L1">
       <text:list-header>
-       <text:p text:style-name="P22"><text:span text:style-name="T20">Autonomic Networking Infrastructure:</text:span></text:p>
-       <text:p text:style-name="P22"><text:span text:style-name="T19">GRASP, Bootstrap, ACP, Naming, Addressing, Discovery</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T22">Autonomic Networking Infrastructure:</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T21">GRASP, Bootstrap, ACP, Naming, Addressing, Discovery</text:span></text:p>
       </text:list-header>
      </text:list>
      <draw:enhanced-geometry svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="rectangle" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
@@ -5913,10 +6024,10 @@
       <draw:equation draw:name="f3" draw:formula="19802"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr39" draw:text-style-name="P39" draw:layer="layout" svg:width="19.8cm" svg:height="1.658cm" svg:x="5.565cm" svg:y="6.659cm">
+    <draw:custom-shape draw:style-name="gr39" draw:text-style-name="P41" draw:layer="layout" svg:width="19.8cm" svg:height="1.658cm" svg:x="5.565cm" svg:y="6.659cm">
      <text:list text:style-name="L1">
       <text:list-header>
-       <text:p text:style-name="P22"><text:span text:style-name="T20">Autonomic Function A</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T22">Autonomic Function A</text:span></text:p>
       </text:list-header>
      </text:list>
      <draw:enhanced-geometry svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="rectangle" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
@@ -5991,10 +6102,10 @@
       <draw:equation draw:name="f3" draw:formula="1304"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr45" draw:text-style-name="P39" draw:layer="layout" svg:width="7.598cm" svg:height="1.658cm" svg:x="5.565cm" svg:y="4.657cm">
+    <draw:custom-shape draw:style-name="gr45" draw:text-style-name="P41" draw:layer="layout" svg:width="7.598cm" svg:height="1.658cm" svg:x="5.565cm" svg:y="4.657cm">
      <text:list text:style-name="L1">
       <text:list-header>
-       <text:p text:style-name="P22"><text:span text:style-name="T20">Autonomic Function B</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T22">Autonomic Function B</text:span></text:p>
       </text:list-header>
      </text:list>
      <draw:enhanced-geometry svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="rectangle" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
@@ -6030,22 +6141,22 @@
       <draw:equation draw:name="f3" draw:formula="1304"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:connector draw:style-name="gr48" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="6.319cm" svg:y1="8.312cm" svg:x2="6.314cm" svg:y2="10.055cm" svg:d="M6319 8312l-5 1743" svg:viewBox="0 0 6 1744">
+    <draw:connector draw:style-name="gr48" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="6.319cm" svg:y1="8.312cm" svg:x2="6.314cm" svg:y2="10.055cm" svg:d="M6319 8312l-5 1743" svg:viewBox="0 0 6 1744">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr48" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="10.358cm" svg:y1="8.259cm" svg:x2="10.353cm" svg:y2="10.002cm" svg:d="M10358 8259l-5 1743" svg:viewBox="0 0 6 1744">
+    <draw:connector draw:style-name="gr48" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="10.358cm" svg:y1="8.259cm" svg:x2="10.353cm" svg:y2="10.002cm" svg:d="M10358 8259l-5 1743" svg:viewBox="0 0 6 1744">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr48" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="14.521cm" svg:y1="8.259cm" svg:x2="14.516cm" svg:y2="10.002cm" svg:d="M14521 8259l-5 1743" svg:viewBox="0 0 6 1744">
+    <draw:connector draw:style-name="gr48" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="14.521cm" svg:y1="8.259cm" svg:x2="14.516cm" svg:y2="10.002cm" svg:d="M14521 8259l-5 1743" svg:viewBox="0 0 6 1744">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr48" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="18.741cm" svg:y1="8.259cm" svg:x2="18.736cm" svg:y2="10.002cm" svg:d="M18741 8259l-5 1743" svg:viewBox="0 0 6 1744">
+    <draw:connector draw:style-name="gr48" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="18.741cm" svg:y1="8.259cm" svg:x2="18.736cm" svg:y2="10.002cm" svg:d="M18741 8259l-5 1743" svg:viewBox="0 0 6 1744">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr48" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="22.917cm" svg:y1="8.259cm" svg:x2="22.912cm" svg:y2="10.002cm" svg:d="M22917 8259l-5 1743" svg:viewBox="0 0 6 1744">
+    <draw:connector draw:style-name="gr48" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="22.917cm" svg:y1="8.259cm" svg:x2="22.912cm" svg:y2="10.002cm" svg:d="M22917 8259l-5 1743" svg:viewBox="0 0 6 1744">
      <text:p/>
     </draw:connector>
-    <draw:line draw:style-name="gr49" draw:text-style-name="P30" draw:layer="layout" svg:x1="1.261cm" svg:y1="9.133cm" svg:x2="25.563cm" svg:y2="9.137cm">
+    <draw:line draw:style-name="gr49" draw:text-style-name="P31" draw:layer="layout" svg:x1="1.261cm" svg:y1="9.133cm" svg:x2="25.563cm" svg:y2="9.137cm">
      <text:p/>
     </draw:line>
     <draw:custom-shape draw:style-name="gr50" draw:text-style-name="P6" draw:layer="layout" svg:width="3.973cm" svg:height="2.027cm" svg:x="0.961cm" svg:y="9.459cm">
@@ -6090,7 +6201,7 @@
        <draw:equation draw:name="f3" draw:formula="1922"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="0.79cm" svg:height="0.873cm" svg:x="5.764cm" svg:y="13.538cm">
+     <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="0.79cm" svg:height="0.873cm" svg:x="5.764cm" svg:y="13.538cm">
       <draw:image draw:mime-type="image/x-wmf">
        <office:binary-data>AQAJAAADNjkAAAMAGAYAAAAABQAAAAwCQAhsBgUAAAALAmgALQAEAAAABQEBAAQAAAAEAQ0A
         BAAAAAYBAQAEAAAAAgECAAUAAAABAv////8EAAAALgEYAAgAAAD6AgUAAAAAAAAAAAAEAAAA
@@ -8763,7 +8874,7 @@
        <draw:equation draw:name="f3" draw:formula="1922"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="0.79cm" svg:height="0.873cm" svg:x="9.962cm" svg:y="13.538cm">
+     <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="0.79cm" svg:height="0.873cm" svg:x="9.962cm" svg:y="13.538cm">
       <draw:image draw:mime-type="image/x-wmf">
        <office:binary-data>AQAJAAADNjkAAAMAGAYAAAAABQAAAAwCQAhsBgUAAAALAmgALQAEAAAABQEBAAQAAAAEAQ0A
         BAAAAAYBAQAEAAAAAgECAAUAAAABAv////8EAAAALgEYAAgAAAD6AgUAAAAAAAAAAAAEAAAA
@@ -11436,7 +11547,7 @@
        <draw:equation draw:name="f3" draw:formula="1922"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="0.79cm" svg:height="0.873cm" svg:x="14.164cm" svg:y="13.538cm">
+     <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="0.79cm" svg:height="0.873cm" svg:x="14.164cm" svg:y="13.538cm">
       <draw:image draw:mime-type="image/x-wmf">
        <office:binary-data>AQAJAAADNjkAAAMAGAYAAAAABQAAAAwCQAhsBgUAAAALAmgALQAEAAAABQEBAAQAAAAEAQ0A
         BAAAAAYBAQAEAAAAAgECAAUAAAABAv////8EAAAALgEYAAgAAAD6AgUAAAAAAAAAAAAEAAAA
@@ -14109,7 +14220,7 @@
        <draw:equation draw:name="f3" draw:formula="1922"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="0.789cm" svg:height="0.873cm" svg:x="18.261cm" svg:y="13.538cm">
+     <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="0.789cm" svg:height="0.873cm" svg:x="18.261cm" svg:y="13.538cm">
       <draw:image draw:mime-type="image/x-wmf">
        <office:binary-data>AQAJAAADNjkAAAMAGAYAAAAABQAAAAwCQAhsBgUAAAALAmgALQAEAAAABQEBAAQAAAAEAQ0A
         BAAAAAYBAQAEAAAAAgECAAUAAAABAv////8EAAAALgEYAAgAAAD6AgUAAAAAAAAAAAAEAAAA
@@ -16782,7 +16893,7 @@
        <draw:equation draw:name="f3" draw:formula="1922"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="0.789cm" svg:height="0.873cm" svg:x="22.366cm" svg:y="13.538cm">
+     <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="0.789cm" svg:height="0.873cm" svg:x="22.366cm" svg:y="13.538cm">
       <draw:image draw:mime-type="image/x-wmf">
        <office:binary-data>AQAJAAADNjkAAAMAGAYAAAAABQAAAAwCQAhsBgUAAAALAmgALQAEAAAABQEBAAQAAAAEAQ0A
         BAAAAAYBAQAEAAAAAgECAAUAAAABAv////8EAAAALgEYAAgAAAD6AgUAAAAAAAAAAAAEAAAA
@@ -19440,7 +19551,7 @@
       </draw:image>
      </draw:frame>
     </draw:g>
-    <draw:frame draw:style-name="gr57" draw:text-style-name="P30" draw:layer="layout" svg:width="2.747cm" svg:height="1.799cm" svg:x="5.856cm" svg:y="14.861cm">
+    <draw:frame draw:style-name="gr57" draw:text-style-name="P31" draw:layer="layout" svg:width="2.747cm" svg:height="1.799cm" svg:x="5.856cm" svg:y="14.861cm">
      <draw:image draw:mime-type="image/x-wmf">
       <office:binary-data>AQAJAAADkQIAAAQAFAAAAAAABQAAAAsCgACeAAUAAAAMAmEApQAEAAAABAENAAQAAAAuARgA
        BAAAAAIBAQAFAAAACQIAAAAABQAAAAEC////AAMAAAAeAAoAAAAmBg8ACgD/////AAAAAAAA
@@ -19689,7 +19800,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr57" draw:text-style-name="P30" draw:layer="layout" svg:width="2.748cm" svg:height="1.799cm" svg:x="10.014cm" svg:y="14.861cm">
+    <draw:frame draw:style-name="gr57" draw:text-style-name="P31" draw:layer="layout" svg:width="2.748cm" svg:height="1.799cm" svg:x="10.014cm" svg:y="14.861cm">
      <draw:image draw:mime-type="image/x-wmf">
       <office:binary-data>AQAJAAADkQIAAAQAFAAAAAAABQAAAAsCgACeAAUAAAAMAmEApQAEAAAABAENAAQAAAAuARgA
        BAAAAAIBAQAFAAAACQIAAAAABQAAAAEC////AAMAAAAeAAoAAAAmBg8ACgD/////AAAAAAAA
@@ -19938,7 +20049,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr57" draw:text-style-name="P30" draw:layer="layout" svg:width="2.747cm" svg:height="1.799cm" svg:x="14.164cm" svg:y="14.861cm">
+    <draw:frame draw:style-name="gr57" draw:text-style-name="P31" draw:layer="layout" svg:width="2.747cm" svg:height="1.799cm" svg:x="14.164cm" svg:y="14.861cm">
      <draw:image draw:mime-type="image/x-wmf">
       <office:binary-data>AQAJAAADkQIAAAQAFAAAAAAABQAAAAsCgACeAAUAAAAMAmEApQAEAAAABAENAAQAAAAuARgA
        BAAAAAIBAQAFAAAACQIAAAAABQAAAAEC////AAMAAAAeAAoAAAAmBg8ACgD/////AAAAAAAA
@@ -20187,7 +20298,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr57" draw:text-style-name="P30" draw:layer="layout" svg:width="2.747cm" svg:height="1.799cm" svg:x="18.287cm" svg:y="14.861cm">
+    <draw:frame draw:style-name="gr57" draw:text-style-name="P31" draw:layer="layout" svg:width="2.747cm" svg:height="1.799cm" svg:x="18.287cm" svg:y="14.861cm">
      <draw:image draw:mime-type="image/x-wmf">
       <office:binary-data>AQAJAAADkQIAAAQAFAAAAAAABQAAAAsCgACeAAUAAAAMAmEApQAEAAAABAENAAQAAAAuARgA
        BAAAAAIBAQAFAAAACQIAAAAABQAAAAEC////AAMAAAAeAAoAAAAmBg8ACgD/////AAAAAAAA
@@ -20436,7 +20547,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr57" draw:text-style-name="P30" draw:layer="layout" svg:width="2.747cm" svg:height="1.799cm" svg:x="22.419cm" svg:y="14.861cm">
+    <draw:frame draw:style-name="gr57" draw:text-style-name="P31" draw:layer="layout" svg:width="2.747cm" svg:height="1.799cm" svg:x="22.419cm" svg:y="14.861cm">
      <draw:image draw:mime-type="image/x-wmf">
       <office:binary-data>AQAJAAADkQIAAAQAFAAAAAAABQAAAAsCgACeAAUAAAAMAmEApQAEAAAABAENAAQAAAAuARgA
        BAAAAAIBAQAFAAAACQIAAAAABQAAAAEC////AAMAAAAeAAoAAAAmBg8ACgD/////AAAAAAAA
@@ -20700,7 +20811,7 @@
        <draw:equation draw:name="f3" draw:formula="2075"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="0.79cm" svg:height="0.873cm" svg:x="5.878cm" svg:y="11.673cm">
+     <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="0.79cm" svg:height="0.873cm" svg:x="5.878cm" svg:y="11.673cm">
       <draw:image draw:mime-type="image/x-wmf">
        <office:binary-data>AQAJAAADNjkAAAMAGAYAAAAABQAAAAwCQAhsBgUAAAALAmgALQAEAAAABQEBAAQAAAAEAQ0A
         BAAAAAYBAQAEAAAAAgECAAUAAAABAv////8EAAAALgEYAAgAAAD6AgUAAAAAAAAAAAAEAAAA
@@ -23373,7 +23484,7 @@
        <draw:equation draw:name="f3" draw:formula="2075"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="0.789cm" svg:height="0.92cm" svg:x="9.962cm" svg:y="11.659cm">
+     <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="0.789cm" svg:height="0.92cm" svg:x="9.962cm" svg:y="11.659cm">
       <draw:image draw:mime-type="image/x-wmf">
        <office:binary-data>AQAJAAADNjkAAAMAGAYAAAAABQAAAAwCQAhsBgUAAAALAmgALQAEAAAABQEBAAQAAAAEAQ0A
         BAAAAAYBAQAEAAAAAgECAAUAAAABAv////8EAAAALgEYAAgAAAD6AgUAAAAAAAAAAAAEAAAA
@@ -26046,7 +26157,7 @@
        <draw:equation draw:name="f3" draw:formula="2075"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="0.789cm" svg:height="0.92cm" svg:x="14.12cm" svg:y="11.659cm">
+     <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="0.789cm" svg:height="0.92cm" svg:x="14.12cm" svg:y="11.659cm">
       <draw:image draw:mime-type="image/x-wmf">
        <office:binary-data>AQAJAAADNjkAAAMAGAYAAAAABQAAAAwCQAhsBgUAAAALAmgALQAEAAAABQEBAAQAAAAEAQ0A
         BAAAAAYBAQAEAAAAAgECAAUAAAABAv////8EAAAALgEYAAgAAAD6AgUAAAAAAAAAAAAEAAAA
@@ -28719,7 +28830,7 @@
        <draw:equation draw:name="f3" draw:formula="2075"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="0.789cm" svg:height="0.92cm" svg:x="18.318cm" svg:y="11.659cm">
+     <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="0.789cm" svg:height="0.92cm" svg:x="18.318cm" svg:y="11.659cm">
       <draw:image draw:mime-type="image/x-wmf">
        <office:binary-data>AQAJAAADNjkAAAMAGAYAAAAABQAAAAwCQAhsBgUAAAALAmgALQAEAAAABQEBAAQAAAAEAQ0A
         BAAAAAYBAQAEAAAAAgECAAUAAAABAv////8EAAAALgEYAAgAAAD6AgUAAAAAAAAAAAAEAAAA
@@ -31392,7 +31503,7 @@
        <draw:equation draw:name="f3" draw:formula="2075"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="0.789cm" svg:height="0.92cm" svg:x="22.366cm" svg:y="11.659cm">
+     <draw:frame draw:style-name="gr27" draw:text-style-name="P31" draw:layer="layout" svg:width="0.789cm" svg:height="0.92cm" svg:x="22.366cm" svg:y="11.659cm">
       <draw:image draw:mime-type="image/x-wmf">
        <office:binary-data>AQAJAAADNjkAAAMAGAYAAAAABQAAAAwCQAhsBgUAAAALAmgALQAEAAAABQEBAAQAAAAEAQ0A
         BAAAAAYBAQAEAAAAAgECAAUAAAABAv////8EAAAALgEYAAgAAAD6AgUAAAAAAAAAAAAEAAAA
@@ -34050,10 +34161,10 @@
       </draw:image>
      </draw:frame>
     </draw:g>
-    <draw:custom-shape draw:style-name="gr63" draw:text-style-name="P39" draw:layer="layout" svg:width="3.316cm" svg:height="1.658cm" svg:x="22.049cm" svg:y="4.657cm">
+    <draw:custom-shape draw:style-name="gr63" draw:text-style-name="P41" draw:layer="layout" svg:width="3.316cm" svg:height="1.658cm" svg:x="22.049cm" svg:y="4.657cm">
      <text:list text:style-name="L1">
       <text:list-header>
-       <text:p text:style-name="P22"><text:span text:style-name="T20">Registrar</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T22">Registrar</text:span></text:p>
       </text:list-header>
      </text:list>
      <draw:enhanced-geometry svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="rectangle" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
@@ -34076,13 +34187,13 @@
       <draw:equation draw:name="f3" draw:formula="1304"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:connector draw:style-name="gr48" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="7.558cm" svg:y1="6.257cm" svg:x2="7.553cm" svg:y2="10.068cm" svg:d="M7558 6257l-5 3811" svg:viewBox="0 0 6 3812">
+    <draw:connector draw:style-name="gr48" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="7.558cm" svg:y1="6.257cm" svg:x2="7.553cm" svg:y2="10.068cm" svg:d="M7558 6257l-5 3811" svg:viewBox="0 0 6 3812">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr48" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="11.562cm" svg:y1="6.257cm" svg:x2="11.557cm" svg:y2="10.068cm" svg:d="M11562 6257l-5 3811" svg:viewBox="0 0 6 3812">
+    <draw:connector draw:style-name="gr48" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="11.562cm" svg:y1="6.257cm" svg:x2="11.557cm" svg:y2="10.068cm" svg:d="M11562 6257l-5 3811" svg:viewBox="0 0 6 3812">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr48" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="23.962cm" svg:y1="6.257cm" svg:x2="23.957cm" svg:y2="10.068cm" svg:d="M23962 6257l-5 3811" svg:viewBox="0 0 6 3812">
+    <draw:connector draw:style-name="gr48" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="23.962cm" svg:y1="6.257cm" svg:x2="23.957cm" svg:y2="10.068cm" svg:d="M23962 6257l-5 3811" svg:viewBox="0 0 6 3812">
      <text:p/>
     </draw:connector>
     <draw:custom-shape draw:style-name="gr65" draw:text-style-name="P8" draw:layer="layout" svg:width="7.62cm" svg:height="1.014cm" svg:x="23.918cm" svg:y="17.657cm">
@@ -34172,78 +34283,27 @@
       <draw:equation draw:name="f3" draw:formula="5940"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:connector draw:style-name="gr72" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="26.162cm" svg:y1="3.581cm" svg:x2="25.761cm" svg:y2="4.106cm" svg:d="M26162 3581l-401 525" svg:viewBox="0 0 402 526">
+    <draw:connector draw:style-name="gr72" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="26.162cm" svg:y1="3.581cm" svg:x2="25.761cm" svg:y2="4.106cm" svg:d="M26162 3581l-401 525" svg:viewBox="0 0 402 526">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr72" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="26.171cm" svg:y1="5.508cm" svg:x2="25.363cm" svg:y2="5.489cm" svg:d="M26171 5508l-808-19" svg:viewBox="0 0 809 20">
+    <draw:connector draw:style-name="gr72" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="26.171cm" svg:y1="5.508cm" svg:x2="25.363cm" svg:y2="5.489cm" svg:d="M26171 5508l-808-19" svg:viewBox="0 0 809 20">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr72" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="26.149cm" svg:y1="8.294cm" svg:x2="24.657cm" svg:y2="8.934cm" svg:d="M26149 8294l-1492 640" svg:viewBox="0 0 1493 641">
+    <draw:connector draw:style-name="gr72" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="26.149cm" svg:y1="8.294cm" svg:x2="24.657cm" svg:y2="8.934cm" svg:d="M26149 8294l-1492 640" svg:viewBox="0 0 1493 641">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr72" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="26.153cm" svg:y1="9.036cm" svg:x2="24.075cm" svg:y2="9.385cm" svg:d="M26153 9036l-2078 349" svg:viewBox="0 0 2079 350">
+    <draw:connector draw:style-name="gr72" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="26.153cm" svg:y1="9.036cm" svg:x2="24.075cm" svg:y2="9.385cm" svg:d="M26153 9036l-2078 349" svg:viewBox="0 0 2079 350">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr72" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="26.171cm" svg:y1="10.398cm" svg:x2="25.561cm" svg:y2="10.353cm" svg:d="M26171 10398l-610-45" svg:viewBox="0 0 611 46">
+    <draw:connector draw:style-name="gr72" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="26.171cm" svg:y1="10.398cm" svg:x2="25.561cm" svg:y2="10.353cm" svg:d="M26171 10398l-610-45" svg:viewBox="0 0 611 46">
      <text:p/>
     </draw:connector>
-    <draw:connector draw:style-name="gr72" draw:text-style-name="P30" draw:layer="layout" draw:type="line" svg:x1="26.172cm" svg:y1="12.285cm" svg:x2="24.835cm" svg:y2="12.392cm" svg:d="M26172 12285l-1337 107" svg:viewBox="0 0 1338 108">
+    <draw:connector draw:style-name="gr72" draw:text-style-name="P31" draw:layer="layout" draw:type="line" svg:x1="26.172cm" svg:y1="12.285cm" svg:x2="24.835cm" svg:y2="12.392cm" svg:d="M26172 12285l-1337 107" svg:viewBox="0 0 1338 108">
      <text:p/>
     </draw:connector>
-    <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="8" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr22" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
-      <draw:text-box/>
-     </draw:frame>
-    </presentation:notes>
-   </draw:page>
-   <draw:page draw:name="page9" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.74cm" presentation:class="title" presentation:user-transformed="true">
-     <draw:text-box>
-      <text:list text:style-name="L7">
-       <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">More about a GRASP Objective</text:span></text:p>
-       </text:list-header>
-      </text:list>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame presentation:style-name="pr19" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="11.047cm" svg:x="1.693cm" svg:y="4.457cm" presentation:class="outline" presentation:user-transformed="true">
-     <draw:text-box>
-      <text:list text:style-name="L5">
-       <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T8">A configurable parameter:</text:span></text:p>
-       </text:list-item>
-      </text:list>
-      <text:list text:style-name="L6">
-       <text:list-item>
-        <text:list>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T8">a logical, numerical or string value, or a more complex data structure.</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T8">used in Discovery, Negotiation, Flooding and Synchronization.</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T8">semantics depend on the autonomic function concerned, and are built into the code of each ASA.</text:span></text:p>
-         </text:list-item>
-        </text:list>
-       </text:list-item>
-      </text:list>
-      <text:list text:style-name="L5">
-       <text:list-item>
-        <text:p text:style-name="P40"><text:span text:style-name="T8">Example for IP prefix management:</text:span><text:span text:style-name="T8"><text:line-break/></text:span><text:span text:style-name="T8"><text:line-break/></text:span><text:span text:style-name="T21">[&quot;PrefixManager&quot;, flags, loop_count, </text:span><text:span text:style-name="T21"><text:line-break/></text:span><text:span text:style-name="T21"><text:tab/></text:span><text:span text:style-name="T21"><text:tab/></text:span><text:span text:style-name="T21"><text:tab/></text:span><text:span text:style-name="T21"><text:tab/></text:span><text:span text:style-name="T21"> <text:s text:c="34"/>[IP_version, prefix_length, prefix]]</text:span></text:p>
-       </text:list-item>
-      </text:list>
-      <text:list text:style-name="L3">
-       <text:list-header>
-        <text:p text:style-name="P41"><text:span text:style-name="T21"/></text:p>
-       </text:list-header>
-      </text:list>
-     </draw:text-box>
-    </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="9" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr15" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:frame presentation:style-name="pr22" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
@@ -34251,30 +34311,44 @@
    <draw:page draw:name="page10" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.74cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L7">
+      <text:list text:style-name="L6">
        <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">GRASP Messages</text:span></text:p>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">More about a GRASP Objective</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr19" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="11.047cm" svg:x="1.693cm" svg:y="4.457cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L10">
+      <text:list text:style-name="L7">
        <text:list-item>
-        <text:p text:style-name="P42"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">Discovery (multicast) <text:s text:c="2"/></text:span><text:span text:style-name="T16"><text:tab/></text:span><text:span text:style-name="T16"> <text:s text:c="8"/>M_DISCOVERY</text:span><text:span text:style-name="T16"><text:line-break/></text:span><text:span text:style-name="T16"> <text:s/>Discovery Response <text:s text:c="4"/></text:span><text:span text:style-name="T16"><text:tab/></text:span><text:span text:style-name="T16"> <text:s text:c="8"/>M_RESPONSE</text:span></text:p>
+        <text:p text:style-name="P28"><text:span text:style-name="T11">A configurable parameter:</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:list text:style-name="L5">
+      <text:list text:style-name="L8">
        <text:list-item>
-        <text:p text:style-name="P43"><text:span text:style-name="T16">Request Negotiation <text:s text:c="2"/></text:span><text:span text:style-name="T16"><text:tab/></text:span><text:span text:style-name="T16"> <text:s text:c="8"/>M_REQ_NEG</text:span><text:span text:style-name="T16"><text:line-break/></text:span><text:span text:style-name="T16">Negotiation <text:s text:c="18"/></text:span><text:span text:style-name="T16"><text:tab/></text:span><text:span text:style-name="T16"> <text:s text:c="8"/>M_NEGOTIATE <text:s text:c="3"/></text:span><text:span text:style-name="T16"><text:line-break/></text:span><text:span text:style-name="T16">Confirm Waiting <text:s text:c="9"/></text:span><text:span text:style-name="T16"><text:tab/></text:span><text:span text:style-name="T16"> <text:s text:c="8"/>M_WAIT</text:span><text:span text:style-name="T16"><text:line-break/></text:span><text:span text:style-name="T16">Negotiation End <text:s text:c="10"/></text:span><text:span text:style-name="T16"><text:tab/></text:span><text:span text:style-name="T16"> <text:s text:c="8"/>M_END</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T11">a logical, numerical or string value, or a more complex data structure.</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T11">used in Discovery, Negotiation, Flooding and Synchronization.</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T11">semantics depend on the autonomic function concerned, and are built into the code of each ASA.</text:span></text:p>
+         </text:list-item>
+        </text:list>
        </text:list-item>
+      </text:list>
+      <text:list text:style-name="L7">
        <text:list-item>
-        <text:p text:style-name="P43"><text:span text:style-name="T16">Request Synchronization <text:s text:c="8"/>M_REQ_SYN</text:span><text:span text:style-name="T16"><text:line-break/></text:span><text:span text:style-name="T16">Synchronization <text:s text:c="10"/></text:span><text:span text:style-name="T16"><text:tab/></text:span><text:span text:style-name="T16"> <text:s text:c="8"/>M_SYNCH</text:span></text:p>
+        <text:p text:style-name="P42"><text:span text:style-name="T11">Example for IP prefix management:</text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T11"><text:line-break/></text:span><text:span text:style-name="T23">[&quot;PrefixManager&quot;, flags, loop_count, </text:span><text:span text:style-name="T23"><text:line-break/></text:span><text:span text:style-name="T23"><text:tab/></text:span><text:span text:style-name="T23"><text:tab/></text:span><text:span text:style-name="T23"><text:tab/></text:span><text:span text:style-name="T23"><text:tab/></text:span><text:span text:style-name="T23"> <text:s text:c="34"/>[IP_version, prefix_length, prefix]]</text:span></text:p>
        </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P44"><text:span text:style-name="T16">Flood Synchronization (multicast)</text:span><text:span text:style-name="T16"><text:line-break/></text:span><text:span text:style-name="T16"> <text:s text:c="52"/>M_FLOOD</text:span></text:p>
-       </text:list-item>
+      </text:list>
+      <text:list text:style-name="L3">
+       <text:list-header>
+        <text:p text:style-name="P43"><text:span text:style-name="T23"/></text:p>
+       </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
@@ -34288,35 +34362,34 @@
    <draw:page draw:name="page11" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.74cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L7">
+      <text:list text:style-name="L6">
        <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">GRASP API Functions</text:span></text:p>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">GRASP Messages</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr19" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="11.047cm" svg:x="1.693cm" svg:y="4.457cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L5">
+      <text:list text:style-name="L11">
        <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T11">Registration</text:span><text:span text:style-name="T8">. An ASA can register itself and register the GRASP Objectives it manipulates.</text:span></text:p>
+        <text:p text:style-name="P44"><text:span text:style-name="T18"><text:s text:c="2"/></text:span><text:span text:style-name="T18">Discovery (multicast) <text:s text:c="2"/></text:span><text:span text:style-name="T18"><text:tab/></text:span><text:span text:style-name="T18"> <text:s text:c="8"/>M_DISCOVERY</text:span><text:span text:style-name="T18"><text:line-break/></text:span><text:span text:style-name="T18"> <text:s/>Discovery Response <text:s text:c="4"/></text:span><text:span text:style-name="T18"><text:tab/></text:span><text:span text:style-name="T18"> <text:s text:c="8"/>M_RESPONSE</text:span></text:p>
+       </text:list-item>
+      </text:list>
+      <text:list text:style-name="L7">
+       <text:list-item>
+        <text:p text:style-name="P45"><text:span text:style-name="T18">Request Negotiation <text:s text:c="2"/></text:span><text:span text:style-name="T18"><text:tab/></text:span><text:span text:style-name="T18"> <text:s text:c="8"/>M_REQ_NEG</text:span><text:span text:style-name="T18"><text:line-break/></text:span><text:span text:style-name="T18">Negotiation <text:s text:c="18"/></text:span><text:span text:style-name="T18"><text:tab/></text:span><text:span text:style-name="T18"> <text:s text:c="8"/>M_NEGOTIATE <text:s text:c="3"/></text:span><text:span text:style-name="T18"><text:line-break/></text:span><text:span text:style-name="T18">Confirm Waiting <text:s text:c="9"/></text:span><text:span text:style-name="T18"><text:tab/></text:span><text:span text:style-name="T18"> <text:s text:c="8"/>M_WAIT</text:span><text:span text:style-name="T18"><text:line-break/></text:span><text:span text:style-name="T18">Negotiation End <text:s text:c="10"/></text:span><text:span text:style-name="T18"><text:tab/></text:span><text:span text:style-name="T18"> <text:s text:c="8"/>M_END</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T11">Discovery</text:span><text:span text:style-name="T8">. An ASA can discover a peer willing to respond for a particular objective.</text:span></text:p>
+        <text:p text:style-name="P45"><text:span text:style-name="T18">Request Synchronization <text:s text:c="8"/>M_REQ_SYN</text:span><text:span text:style-name="T18"><text:line-break/></text:span><text:span text:style-name="T18">Synchronization <text:s text:c="10"/></text:span><text:span text:style-name="T18"><text:tab/></text:span><text:span text:style-name="T18"> <text:s text:c="8"/>M_SYNCH</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T11">Negotiation</text:span><text:span text:style-name="T8">. An ASA can act as an initiator (requester) or responder (listener) for a negotiation session. Negotiation is a symmetric process, so most functions can be used by either party.</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T11">Synchronization</text:span><text:span text:style-name="T8">. An ASA <text:s/>can act as an initiator (requester) or responder (listener and data source) for data synchronization.</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T11">Flooding</text:span><text:span text:style-name="T8">. <text:s/>An ASA can send and receive a GRASP Objective that is flooded to all nodes of the ACP.</text:span></text:p>
+        <text:p text:style-name="P46"><text:span text:style-name="T18">Flood Synchronization (multicast)</text:span><text:span text:style-name="T18"><text:line-break/></text:span><text:span text:style-name="T18"> <text:s text:c="52"/>M_FLOOD</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <presentation:notes draw:style-name="dp5">
+    <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="11" presentation:class="page"/>
      <draw:frame presentation:style-name="pr15" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
@@ -34326,35 +34399,31 @@
    <draw:page draw:name="page12" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.74cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L7">
+      <text:list text:style-name="L6">
        <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">A negotiation session</text:span></text:p>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">GRASP API Functions</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr23" draw:text-style-name="P15" draw:layer="layout" svg:width="23.2cm" svg:height="14.733cm" svg:x="5.759cm" svg:y="3.046cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr19" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="11.047cm" svg:x="1.693cm" svg:y="4.457cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L1">
-       <text:list-header>
-        <text:p text:style-name="P45"><text:span text:style-name="T22">Initiator</text:span><text:span text:style-name="T23"> <text:s text:c="24"/></text:span><text:span text:style-name="T22">Responder</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"/></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"><text:s text:c="34"/></text:span><text:span text:style-name="T23">listen_negotiate() \ Await request <text:s text:c="7"/></text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23">request_negotiate()</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"><text:s text:c="10"/></text:span><text:span text:style-name="T23">M_REQ_NEG <text:s text:c="5"/>-&gt; <text:s text:c="6"/>negotiate_step() <text:s text:c="2"/>\ Open session,</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"><text:s text:c="25"/></text:span><text:span text:style-name="T23">&lt;- <text:s text:c="5"/>M_NEGOTIATE <text:s text:c="8"/>/ start negotiation</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23">negotiate_step()</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"><text:s text:c="8"/></text:span><text:span text:style-name="T23">M_NEGOTIATE <text:s text:c="5"/>-&gt; <text:s text:c="6"/>negotiate_step() <text:s text:c="2"/>\ Continue</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"><text:s text:c="25"/></text:span><text:span text:style-name="T23">&lt;- <text:s text:c="5"/>M_NEGOTIATE <text:s text:c="8"/>/ negotiation</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"><text:s text:c="25"/></text:span><text:span text:style-name="T23">...</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23">negotiate_step()</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"><text:s text:c="8"/></text:span><text:span text:style-name="T23">M_NEGOTIATE <text:s text:c="5"/>-&gt; <text:s text:c="6"/>negotiate_step() <text:s text:c="2"/>\ Continue</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"><text:s text:c="25"/></text:span><text:span text:style-name="T23">&lt;- <text:s text:c="5"/>M_NEGOTIATE <text:s text:c="8"/>/ negotiation</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23">negotiate_step()</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"><text:s text:c="8"/></text:span><text:span text:style-name="T23">M_NEGOTIATE <text:s text:c="5"/>-&gt; <text:s text:c="6"/>end_negotiate() <text:s text:c="3"/>\ End</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"><text:s text:c="25"/></text:span><text:span text:style-name="T23">&lt;- <text:s text:c="5"/>M_END <text:s text:c="14"/>/ negotiation,</text:span></text:p>
-        <text:p text:style-name="P45"><text:span text:style-name="T23"><text:s text:c="53"/></text:span><text:span text:style-name="T23">\ process results</text:span></text:p>
-       </text:list-header>
+      <text:list text:style-name="L7">
+       <text:list-item>
+        <text:p text:style-name="P28"><text:span text:style-name="T13">Registration</text:span><text:span text:style-name="T11">. An ASA can register itself and register the GRASP Objectives it manipulates.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T13">Discovery</text:span><text:span text:style-name="T11">. An ASA can discover a peer willing to respond for a particular objective.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T13">Negotiation</text:span><text:span text:style-name="T11">. An ASA can act as an initiator (requester) or responder (listener) for a negotiation session. Negotiation is a symmetric process, so most functions can be used by either party.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T13">Synchronization</text:span><text:span text:style-name="T11">. An ASA <text:s/>can act as an initiator (requester) or responder (listener and data source) for data synchronization.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T13">Flooding</text:span><text:span text:style-name="T11">. <text:s/>An ASA can send and receive a GRASP Objective that is flooded to all nodes of the ACP.</text:span></text:p>
+       </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
@@ -34368,55 +34437,39 @@
    <draw:page draw:name="page13" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.74cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L7">
+      <text:list text:style-name="L6">
        <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">GRASP Prototype</text:span></text:p>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">A negotiation session</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr19" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="11.047cm" svg:x="1.693cm" svg:y="4.457cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr23" draw:text-style-name="P15" draw:layer="layout" svg:width="23.2cm" svg:height="14.733cm" svg:x="5.759cm" svg:y="3.046cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L5">
-       <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T8">A Python 3 implementation of GRASP as a module </text:span><text:span text:style-name="T24">grasp.py</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">About 2400 lines of code</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">A test suite to exercise as many code paths as possible </text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">Various toy ASAs to test &quot;real&quot; operation across the network</text:span></text:p>
-       </text:list-item>
-      </text:list>
-      <text:list text:style-name="L6">
-       <text:list-item>
-        <text:list>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T8">bank/client negotiation</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T8">model of secure bootstrap process</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T8">model of IPv6 prefix management</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T8">bulk transfer using GRASP</text:span></text:p>
-         </text:list-item>
-        </text:list>
-       </text:list-item>
-      </text:list>
-      <text:list text:style-name="L5">
-       <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T8">Some documentation</text:span></text:p>
-       </text:list-item>
+      <text:list text:style-name="L1">
+       <text:list-header>
+        <text:p text:style-name="P47"><text:span text:style-name="T24">Initiator</text:span><text:span text:style-name="T25"> <text:s text:c="24"/></text:span><text:span text:style-name="T24">Responder</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"/></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"><text:s text:c="34"/></text:span><text:span text:style-name="T25">listen_negotiate() \ Await request <text:s text:c="7"/></text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25">request_negotiate()</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"><text:s text:c="10"/></text:span><text:span text:style-name="T25">M_REQ_NEG <text:s text:c="5"/>-&gt; <text:s text:c="6"/>negotiate_step() <text:s text:c="2"/>\ Open session,</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"><text:s text:c="25"/></text:span><text:span text:style-name="T25">&lt;- <text:s text:c="5"/>M_NEGOTIATE <text:s text:c="8"/>/ start negotiation</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25">negotiate_step()</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"><text:s text:c="8"/></text:span><text:span text:style-name="T25">M_NEGOTIATE <text:s text:c="5"/>-&gt; <text:s text:c="6"/>negotiate_step() <text:s text:c="2"/>\ Continue</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"><text:s text:c="25"/></text:span><text:span text:style-name="T25">&lt;- <text:s text:c="5"/>M_NEGOTIATE <text:s text:c="8"/>/ negotiation</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"><text:s text:c="25"/></text:span><text:span text:style-name="T25">...</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25">negotiate_step()</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"><text:s text:c="8"/></text:span><text:span text:style-name="T25">M_NEGOTIATE <text:s text:c="5"/>-&gt; <text:s text:c="6"/>negotiate_step() <text:s text:c="2"/>\ Continue</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"><text:s text:c="25"/></text:span><text:span text:style-name="T25">&lt;- <text:s text:c="5"/>M_NEGOTIATE <text:s text:c="8"/>/ negotiation</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25">negotiate_step()</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"><text:s text:c="8"/></text:span><text:span text:style-name="T25">M_NEGOTIATE <text:s text:c="5"/>-&gt; <text:s text:c="6"/>end_negotiate() <text:s text:c="3"/>\ End</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"><text:s text:c="25"/></text:span><text:span text:style-name="T25">&lt;- <text:s text:c="5"/>M_END <text:s text:c="14"/>/ negotiation,</text:span></text:p>
+        <text:p text:style-name="P47"><text:span text:style-name="T25"><text:s text:c="53"/></text:span><text:span text:style-name="T25">\ process results</text:span></text:p>
+       </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <presentation:notes draw:style-name="dp2">
+    <presentation:notes draw:style-name="dp5">
      <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="13" presentation:class="page"/>
      <draw:frame presentation:style-name="pr15" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
@@ -34426,47 +34479,105 @@
    <draw:page draw:name="page14" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.74cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L7">
+      <text:list text:style-name="L6">
        <text:list-header>
-        <text:p text:style-name="P29"><text:span text:style-name="T10">More...</text:span></text:p>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">GRASP Prototype</text:span></text:p>
+       </text:list-header>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr19" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="11.047cm" svg:x="1.693cm" svg:y="4.457cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L7">
+       <text:list-item>
+        <text:p text:style-name="P28"><text:span text:style-name="T11">A Python 3 implementation of GRASP as a module </text:span><text:span text:style-name="T26">grasp.py</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">About 2400 lines of code</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">A test suite to exercise as many code paths as possible </text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">Various toy ASAs to test &quot;real&quot; operation across the network</text:span></text:p>
+       </text:list-item>
+      </text:list>
+      <text:list text:style-name="L8">
+       <text:list-item>
+        <text:list>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T11">bank/client negotiation</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T11">model of secure bootstrap process</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T11">model of IPv6 prefix management</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P29"><text:span text:style-name="T11">bulk transfer using GRASP</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+      <text:list text:style-name="L7">
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="T11">Some documentation</text:span></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="14" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr15" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page15" draw:style-name="dp4" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame presentation:style-name="pr17" draw:text-style-name="P15" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.74cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L6">
+       <text:list-header>
+        <text:p text:style-name="P27"><text:span text:style-name="T10">More...</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr24" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="11.047cm" svg:x="1.693cm" svg:y="4.457cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:list text:style-name="L5">
+      <text:list text:style-name="L7">
        <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T25">RFC 7575 &amp; 7576 (IRTF background documents))</text:span></text:p>
+        <text:p text:style-name="P28"><text:span text:style-name="T27">RFC 7575 &amp; 7576 (IRTF background documents))</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T25">RFC 8990 – 8995 (IETF specifications)</text:span></text:p>
+        <text:p text:style-name="P30"><text:span text:style-name="T27">RFC 8990 – 8995 (IETF specifications)</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T25">https://datatracker.ietf.org/wg/anima/documents/</text:span></text:p>
+        <text:p text:style-name="P30"><text:span text:style-name="T27">https://datatracker.ietf.org/wg/anima/documents/</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P28"><text:span text:style-name="T25">https://github.com/becarpenter/graspy</text:span></text:p>
+        <text:p text:style-name="P30"><text:span text:style-name="T27">https://github.com/becarpenter/graspy</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:list text:style-name="L11">
+      <text:list text:style-name="L12">
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P27"><text:span text:style-name="T26">doc at https://github.com/becarpenter/graspy/blob/master/graspy.pdf</text:span><text:span text:style-name="T25"> </text:span></text:p>
+          <text:p text:style-name="P29"><text:span text:style-name="T28">doc at https://github.com/becarpenter/graspy/blob/master/graspy.pdf</text:span><text:span text:style-name="T27"> </text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
       </text:list>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p text:style-name="P31"><text:span text:style-name="T25"/></text:p>
+        <text:p text:style-name="P32"><text:span text:style-name="T27"/></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="14" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr26" draw:layer="layout" svg:width="14.847cm" svg:height="11.134cm" svg:x="3.074cm" svg:y="2.258cm" draw:page-number="15" presentation:class="page"/>
      <draw:frame presentation:style-name="pr15" draw:text-style-name="P25" draw:layer="layout" svg:width="16.801cm" svg:height="13.366cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
