@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><dc:title>GRASP Tutorial</dc:title><meta:initial-creator>Brian E Carpenter</meta:initial-creator><meta:creation-date>2020-12-26T13:42:38.440000000</meta:creation-date><dc:creator>Brian E Carpenter</dc:creator><dc:date>2021-10-19T13:28:24.758000000</dc:date><meta:editing-cycles>149</meta:editing-cycles><meta:editing-duration>PT19H20M39S</meta:editing-duration><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator><meta:document-statistic meta:object-count="582"/><meta:user-defined meta:name="AppVersion">15.0000</meta:user-defined><meta:user-defined meta:name="Company">UoA</meta:user-defined><meta:user-defined meta:name="HiddenSlides" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="MMClips" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="Notes" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="PresentationFormat" meta:value-type="string">Widescreen</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined></office:meta>
+ <office:meta><dc:title>GRASP Tutorial</dc:title><meta:initial-creator>Brian E Carpenter</meta:initial-creator><meta:creation-date>2020-12-26T13:42:38.440000000</meta:creation-date><dc:creator>Brian E Carpenter</dc:creator><dc:date>2022-01-24T08:59:25.329000000</dc:date><meta:editing-cycles>153</meta:editing-cycles><meta:editing-duration>PT19H30M5S</meta:editing-duration><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator><meta:document-statistic meta:object-count="582"/><meta:user-defined meta:name="AppVersion">15.0000</meta:user-defined><meta:user-defined meta:name="Company">UoA</meta:user-defined><meta:user-defined meta:name="HiddenSlides" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="MMClips" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="Notes" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="PresentationFormat" meta:value-type="string">Widescreen</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-1156</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-365</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">-517</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">35095</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">21501</config:config-item>
@@ -29,16 +29,16 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">59</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">52</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-1156</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-365</config:config-item>
      <config:config-item config:name="VisibleAreaLeft" config:type="int">-517</config:config-item>
      <config:config-item config:name="VisibleAreaWidth" config:type="int">35096</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">21502</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">19860</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -122,10 +122,10 @@
   </office:script>
  </office:scripts>
  <office:font-face-decls>
-  <style:font-face style:name="Sabon1" svg:font-family="Sabon, Sabon" style:font-family-generic="roman"/>
-  <style:font-face style:name="Consolas1" svg:font-family="Consolas" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Sabon" svg:font-family="Sabon, Sabon" style:font-family-generic="roman"/>
+  <style:font-face style:name="Consolas" svg:font-family="Consolas" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
-  <style:font-face style:name="Arial3" svg:font-family="Arial" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial1" svg:font-family="Arial" style:font-pitch="variable"/>
   <style:font-face style:name="Calibri" svg:font-family="Calibri" style:font-pitch="variable"/>
   <style:font-face style:name="Calibri Light" svg:font-family="&apos;Calibri Light&apos;" style:font-pitch="variable"/>
   <style:font-face style:name="Microsoft YaHei1" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-pitch="variable"/>
@@ -134,22 +134,22 @@
   <style:font-face style:name="ＭＳ Ｐゴシック" svg:font-family="&apos;ＭＳ Ｐゴシック&apos;" style:font-pitch="variable"/>
   <style:font-face style:name="Arial4" svg:font-family="Arial" style:font-family-generic="modern" style:font-pitch="variable"/>
   <style:font-face style:name="Calibri2" svg:font-family="Calibri" style:font-family-generic="modern" style:font-pitch="variable"/>
-  <style:font-face style:name="Consolas" svg:font-family="Consolas" style:font-family-generic="modern" style:font-pitch="variable"/>
+  <style:font-face style:name="Consolas1" svg:font-family="Consolas" style:font-family-generic="modern" style:font-pitch="variable"/>
   <style:font-face style:name="Courier New1" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
-  <style:font-face style:name="Microsoft YaHei3" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei2" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
   <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Calibri1" svg:font-family="Calibri" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Palatino Linotype" svg:font-family="&apos;Palatino Linotype&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Sabon" svg:font-family="Sabon, Sabon" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Sabon1" svg:font-family="Sabon, Sabon" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Arial1" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial3" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Arial2" svg:font-family="Arial" style:font-adornments="Regular" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Arial Unicode MS" svg:font-family="&apos;Arial Unicode MS&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Calibri3" svg:font-family="Calibri" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="Microsoft YaHei2" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei3" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Arial5" svg:font-family="Arial" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Lohit Hindi" svg:font-family="&apos;Lohit Hindi&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -350,7 +350,7 @@
   </style:style>
   <style:style style:name="Default" style:family="graphic">
    <style:paragraph-properties fo:text-align="start" style:text-autospace="none"/>
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Sabon1" fo:font-family="Sabon, Sabon" style:font-family-generic="roman" fo:font-size="12pt" style:font-name-asian="Sabon1" style:font-family-asian="Sabon, Sabon" style:font-family-generic-asian="roman" style:font-size-asian="12pt" style:font-name-complex="Sabon1" style:font-family-complex="Sabon, Sabon" style:font-family-generic-complex="roman" style:font-size-complex="12pt"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Sabon" fo:font-family="Sabon, Sabon" style:font-family-generic="roman" fo:font-size="12pt" style:font-name-asian="Sabon" style:font-family-asian="Sabon, Sabon" style:font-family-generic-asian="roman" style:font-size-asian="12pt" style:font-name-complex="Sabon" style:font-family-complex="Sabon, Sabon" style:font-family-generic-complex="roman" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="Pa7" style:family="graphic">
    <style:paragraph-properties style:line-height-at-least="0.998cm" style:text-autospace="none"/>
@@ -3751,7 +3751,7 @@
   </style:style>
   <style:style style:name="P80" style:family="paragraph">
    <style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Consolas1" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
   </style:style>
   <style:style style:name="P81" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-align="start" fo:text-indent="0cm" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
@@ -3811,15 +3811,42 @@
    <style:paragraph-properties fo:margin-left="0.952cm" fo:margin-right="0cm" fo:margin-top="0.255cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-indent="-0.93cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
   </style:style>
   <style:style style:name="P90" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial2" fo:font-size="10pt" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="13pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Lohit Hindi" style:font-size-complex="13pt" style:font-style-complex="italic" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:paragraph-properties fo:margin-left="0.952cm" fo:margin-right="0cm" fo:margin-top="0.255cm" fo:margin-bottom="0cm" fo:line-height="75%" fo:text-align="start" fo:text-indent="-0.93cm" style:punctuation-wrap="hanging" style:line-break="strict">
+    <style:tab-stops>
+     <style:tab-stop style:position="0cm"/>
+     <style:tab-stop style:position="0.317cm"/>
+     <style:tab-stop style:position="1.587cm"/>
+     <style:tab-stop style:position="2.857cm"/>
+     <style:tab-stop style:position="4.127cm"/>
+     <style:tab-stop style:position="5.397cm"/>
+     <style:tab-stop style:position="6.667cm"/>
+     <style:tab-stop style:position="7.937cm"/>
+     <style:tab-stop style:position="9.207cm"/>
+     <style:tab-stop style:position="10.477cm"/>
+     <style:tab-stop style:position="11.747cm"/>
+     <style:tab-stop style:position="13.017cm"/>
+     <style:tab-stop style:position="14.287cm"/>
+     <style:tab-stop style:position="15.557cm"/>
+     <style:tab-stop style:position="16.827cm"/>
+     <style:tab-stop style:position="18.097cm"/>
+     <style:tab-stop style:position="19.367cm"/>
+     <style:tab-stop style:position="20.637cm"/>
+     <style:tab-stop style:position="21.907cm"/>
+     <style:tab-stop style:position="23.177cm"/>
+     <style:tab-stop style:position="24.447cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="P91" style:family="paragraph">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#c8dcf1"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial2" fo:font-size="10pt" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="13pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Lohit Hindi" style:font-size-complex="13pt" style:font-style-complex="italic" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P92" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#c8dcf1"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial2" fo:font-size="10pt" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="13pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Lohit Hindi" style:font-size-complex="13pt" style:font-style-complex="italic" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="1.137cm" fo:margin-right="0cm" fo:margin-top="0.502cm" fo:margin-bottom="0cm" fo:line-height="83%" fo:text-indent="-0.829cm" style:punctuation-wrap="hanging" style:line-break="strict"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -3919,7 +3946,7 @@
    <style:text-properties fo:font-size="40pt" fo:language="en" fo:country="US" style:font-size-asian="40pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="40pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
    <style:text-properties fo:language="en" fo:country="US" style:language-asian="en" style:country-asian="US" style:language-complex="en" style:country-complex="US"/>
@@ -3931,7 +3958,7 @@
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="32pt" fo:language="en" fo:country="US" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="32pt" fo:language="en" fo:country="US" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="32pt" fo:language="en" fo:country="US" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
    <style:text-properties fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
@@ -3946,7 +3973,7 @@
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="28pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="96pt" fo:language="en" fo:country="US" style:font-size-asian="96pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="96pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="96pt" fo:language="en" fo:country="US" style:font-size-asian="96pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="96pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
    <style:text-properties style:font-name="Calibri" fo:font-size="28pt" fo:language="en" fo:country="US" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US"/>
@@ -3955,25 +3982,25 @@
    <style:text-properties style:font-name="Calibri" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-style="italic" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="italic" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Consolas1" fo:font-size="32pt" fo:language="en" fo:country="US" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Consolas" fo:font-size="32pt" fo:language="en" fo:country="US" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Consolas1" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Consolas" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Consolas1" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Consolas" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="28pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="28pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="28pt" fo:language="en" fo:country="US" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="28pt" fo:language="en" fo:country="US" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="20pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="20pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="20pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="20pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Consolas1" fo:font-size="20pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="20pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Consolas" fo:font-size="20pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="20pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
    <style:text-properties fo:color="#729fcf" loext:opacity="100%"/>
@@ -3994,25 +4021,25 @@
    <style:text-properties style:font-name="Arial Unicode MS" fo:font-size="28pt" fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="GB" style:font-weight-asian="bold" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="GB" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Courier New" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Courier New" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Courier New" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Courier New" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Segoe UI1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Segoe UI1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Segoe UI1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Segoe UI1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
    <style:text-properties style:font-name="Calibri" fo:font-size="32pt" fo:language="en" fo:country="US" style:font-name-asian="Segoe UI1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Segoe UI1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="32pt" fo:language="en" fo:country="US" style:font-name-asian="Segoe UI1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Segoe UI1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="32pt" fo:language="en" fo:country="US" style:font-name-asian="Segoe UI1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Segoe UI1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
    <style:text-properties style:font-name="Calibri" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Segoe UI1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Segoe UI1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="36pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Segoe UI1" style:font-size-asian="36pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Segoe UI1" style:font-size-complex="36pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="36pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Segoe UI1" style:font-size-asian="36pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Segoe UI1" style:font-size-complex="36pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="40pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Segoe UI1" style:font-size-asian="40pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Segoe UI1" style:font-size-complex="40pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="40pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Segoe UI1" style:font-size-asian="40pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Segoe UI1" style:font-size-complex="40pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
    <style:text-properties style:font-name="Times New Roman" fo:font-size="32pt" fo:language="en" fo:country="US" style:font-name-asian="Segoe UI1" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Segoe UI1" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US"/>
@@ -4021,27 +4048,30 @@
    <style:text-properties style:font-name="Calibri3" fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:color="#3465a4" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Consolas1" fo:font-size="28pt" fo:language="en" fo:country="GB" style:font-name-asian="Arial Unicode MS" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Arial Unicode MS" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="GB"/>
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Consolas" fo:font-size="28pt" fo:language="en" fo:country="GB" style:font-name-asian="Arial Unicode MS" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Arial Unicode MS" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="GB"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Consolas1" fo:font-size="28pt" fo:language="en" fo:country="GB" style:font-name-asian="Arial Unicode MS" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Arial Unicode MS" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="GB"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Consolas" fo:font-size="28pt" fo:language="en" fo:country="GB" style:font-name-asian="Arial Unicode MS" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Arial Unicode MS" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="GB"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties style:text-position="0% 100%" style:font-name="Consolas1" fo:font-size="28pt" fo:language="en" fo:country="GB" style:font-name-asian="Arial Unicode MS" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Arial Unicode MS" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="GB"/>
+   <style:text-properties style:text-position="0% 100%" style:font-name="Consolas" fo:font-size="28pt" fo:language="en" fo:country="GB" style:font-name-asian="Arial Unicode MS" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Arial Unicode MS" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="GB"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
-   <style:text-properties style:font-name="Consolas1" fo:language="en" fo:country="US" fo:font-weight="bold" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Consolas" fo:language="en" fo:country="US" fo:font-weight="bold" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Consolas1" fo:font-size="28pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Consolas" fo:font-size="28pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T73" style:family="text">
    <style:text-properties fo:font-size="24pt" fo:language="en" fo:country="US" style:font-size-asian="24pt" style:language-asian="en" style:country-asian="US" style:font-size-complex="24pt" style:language-complex="en" style:country-complex="US"/>
   </style:style>
   <style:style style:name="T74" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Consolas" fo:font-size="28pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="transparent" style:font-name-asian="Microsoft YaHei1" style:font-size-asian="28pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Microsoft YaHei1" style:font-size-complex="28pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T75" style:family="text">
    <style:text-properties style:font-name="Courier New" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="32pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="32pt" style:language-complex="en" style:country-complex="US" style:font-weight-complex="bold"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -4594,6 +4624,48 @@
    <text:list-level-style-number text:level="1" style:num-format="">
     <style:list-level-properties/>
     <style:text-properties fo:color="#3465a4" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="2" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.27cm" text:min-label-width="0.793cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.54cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:bullet-char="–">
+    <style:list-level-properties text:space-before="3.81cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:bullet-char="»">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+    <style:text-properties style:font-name="Times New Roman" fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L15">
+   <text:list-level-style-number text:level="1" style:num-format="">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
    </text:list-level-style-number>
    <text:list-level-style-bullet text:level="2" text:bullet-char="–">
     <style:list-level-properties text:space-before="1.27cm" text:min-label-width="0.793cm"/>
@@ -12453,8 +12525,7 @@
         <text:p text:style-name="P84"><text:span text:style-name="T71"><text:s text:c="8"/></text:span><text:span text:style-name="T71">if OK:</text:span></text:p>
         <text:p text:style-name="P84"><text:span text:style-name="T71"><text:s text:c="12"/></text:span><text:span text:style-name="T71">if offered amount of resource sufficient:</text:span></text:p>
         <text:p text:style-name="P84"><text:span text:style-name="T71"><text:s text:c="16"/></text:span><text:span text:style-name="T71">end_negotiate(True)</text:span></text:p>
-        <text:p text:style-name="P84"><text:span text:style-name="T71"><text:s text:c="16"/></text:span><text:span text:style-name="T71">Add resource to pool</text:span></text:p>
-        <text:p text:style-name="P84"><text:span text:style-name="T71"><text:s text:c="16"/></text:span><text:span text:style-name="T71">good_peer = peer</text:span></text:p>
+        <text:p text:style-name="P84"><text:span text:style-name="T71"><text:s text:c="16"/></text:span><text:span text:style-name="T71">Add resource to pool <text:s text:c="14"/></text:span></text:p>
         <text:p text:style-name="P84"><text:span text:style-name="T71"><text:s text:c="12"/></text:span><text:span text:style-name="T71">else:</text:span></text:p>
         <text:p text:style-name="P84"><text:span text:style-name="T71"><text:s text:c="16"/></text:span><text:span text:style-name="T71">end_negotiate(False) #negotiation failed</text:span></text:p>
         <text:p text:style-name="P84"><text:span text:style-name="T71"><text:s text:c="4"/></text:span><text:span text:style-name="T71">sleep() #sleep time depends on application scenario</text:span></text:p>
@@ -12462,7 +12533,7 @@
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr119" draw:text-style-name="P87" draw:layer="layout" svg:width="7.876cm" svg:height="3.303cm" svg:x="23.367cm" svg:y="11.43cm">
+    <draw:custom-shape draw:style-name="gr119" draw:text-style-name="P87" draw:layer="layout" svg:width="7.876cm" svg:height="3.303cm" svg:x="24.638cm" svg:y="11.176cm">
      <text:list text:style-name="L1">
       <text:list-header>
        <text:p text:style-name="P86"><text:span text:style-name="T73">(A full negotiation needs an outer loop here.)</text:span></text:p>
@@ -12583,7 +12654,7 @@
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr33" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="14.733cm" svg:x="1.526cm" svg:y="3.302cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr33" draw:text-style-name="P15" draw:layer="layout" svg:width="30.48cm" svg:height="14.733cm" svg:x="1.557cm" svg:y="2.693cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L1">
        <text:list-header>
@@ -12604,6 +12675,15 @@
         <text:p text:style-name="P89"><text:span text:style-name="T71"><text:s text:c="8"/></text:span><text:span text:style-name="T71"># negotiation succeeded</text:span></text:p>
         <text:p text:style-name="P89"><text:span text:style-name="T71"><text:s text:c="4"/></text:span><text:span text:style-name="T71">elif received M_END + O_DECLINE or other error:</text:span></text:p>
         <text:p text:style-name="P89"><text:span text:style-name="T71"><text:s text:c="8"/></text:span><text:span text:style-name="T71"># negotiation failed</text:span></text:p>
+       </text:list-header>
+      </text:list>
+      <text:list text:style-name="L15">
+       <text:list-header>
+        <text:p text:style-name="P90"><text:span text:style-name="T74"><text:s text:c="8"/></text:span><text:span text:style-name="T71">Return resource amount A to resource_pool</text:span></text:p>
+       </text:list-header>
+      </text:list>
+      <text:list text:style-name="L1">
+       <text:list-header>
         <text:p text:style-name="P89"><text:span text:style-name="T71">else:</text:span></text:p>
         <text:p text:style-name="P89"><text:span text:style-name="T71"><text:s text:c="4"/></text:span><text:span text:style-name="T71">end_negotiate(False) # negotiation failed</text:span></text:p>
        </text:list-header>
@@ -12616,7 +12696,7 @@
        <text:p text:style-name="P86"><text:span text:style-name="T73">Again, a single step negotiation</text:span></text:p>
       </text:list-header>
      </text:list>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="800 800 20800 20800" draw:type="round-rectangular-callout" draw:modifiers="-19020 16931" draw:enhanced-path="M 3590 0 X 0 3590 L ?f2 ?f3 0 8970 0 12630 ?f4 ?f5 0 18010 Y 3590 21600 L ?f6 ?f7 8970 21600 12630 21600 ?f8 ?f9 18010 21600 X 21600 18010 L ?f10 ?f11 21600 12630 21600 8970 ?f12 ?f13 21600 3590 Y 18010 0 L ?f14 ?f15 12630 0 8970 0 ?f16 ?f17 Z N">
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="800 800 20800 20800" draw:type="round-rectangular-callout" draw:modifiers="-19014.1732283465 12995.6155143339" draw:enhanced-path="M 3590 0 X 0 3590 L ?f2 ?f3 0 8970 0 12630 ?f4 ?f5 0 18010 Y 3590 21600 L ?f6 ?f7 8970 21600 12630 21600 ?f8 ?f9 18010 21600 X 21600 18010 L ?f10 ?f11 21600 12630 21600 8970 ?f12 ?f13 21600 3590 Y 18010 0 L ?f14 ?f15 12630 0 8970 0 ?f16 ?f17 Z N">
       <draw:equation draw:name="f0" draw:formula="$0 -10800"/>
       <draw:equation draw:name="f1" draw:formula="$1 -10800"/>
       <draw:equation draw:name="f2" draw:formula="if(?f18 ,$0 ,0)"/>
@@ -12668,7 +12748,7 @@
        <text:p text:style-name="P86"><text:span text:style-name="T73">Will offer the best it can get from the resource pool.</text:span></text:p>
       </text:list-header>
      </text:list>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="800 800 20800 20800" draw:type="round-rectangular-callout" draw:modifiers="-22285 20693" draw:enhanced-path="M 3590 0 X 0 3590 L ?f2 ?f3 0 8970 0 12630 ?f4 ?f5 0 18010 Y 3590 21600 L ?f6 ?f7 8970 21600 12630 21600 ?f8 ?f9 18010 21600 X 21600 18010 L ?f10 ?f11 21600 12630 21600 8970 ?f12 ?f13 21600 3590 Y 18010 0 L ?f14 ?f15 12630 0 8970 0 ?f16 ?f17 Z N">
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="800 800 20800 20800" draw:type="round-rectangular-callout" draw:modifiers="-23326.0726938722 16265.7672849916" draw:enhanced-path="M 3590 0 X 0 3590 L ?f2 ?f3 0 8970 0 12630 ?f4 ?f5 0 18010 Y 3590 21600 L ?f6 ?f7 8970 21600 12630 21600 ?f8 ?f9 18010 21600 X 21600 18010 L ?f10 ?f11 21600 12630 21600 8970 ?f12 ?f13 21600 3590 Y 18010 0 L ?f14 ?f15 12630 0 8970 0 ?f16 ?f17 Z N">
       <draw:equation draw:name="f0" draw:formula="$0 -10800"/>
       <draw:equation draw:name="f1" draw:formula="$1 -10800"/>
       <draw:equation draw:name="f2" draw:formula="if(?f18 ,$0 ,0)"/>
@@ -13065,7 +13145,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr123" draw:text-style-name="P91" draw:layer="layout" svg:width="30.988cm" svg:height="13.208cm" svg:x="1.778cm" svg:y="5.588cm">
+    <draw:custom-shape draw:style-name="gr123" draw:text-style-name="P92" draw:layer="layout" svg:width="30.988cm" svg:height="13.208cm" svg:x="1.778cm" svg:y="5.588cm">
      <draw:glue-point draw:id="4" svg:x="0.5cm" svg:y="5cm"/>
      <draw:glue-point draw:id="5" svg:x="1cm" svg:y="4.666cm"/>
      <draw:glue-point draw:id="6" svg:x="1.5cm" svg:y="4.333cm"/>
@@ -13113,7 +13193,7 @@
      <draw:glue-point draw:id="48" svg:x="-1.5cm" svg:y="4.333cm"/>
      <draw:glue-point draw:id="49" svg:x="-1cm" svg:y="4.333cm"/>
      <draw:glue-point draw:id="50" svg:x="-0.5cm" svg:y="5cm"/>
-     <text:p text:style-name="P90"><text:span text:style-name="T16">Site network</text:span></text:p>
+     <text:p text:style-name="P91"><text:span text:style-name="T16">Site network</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:text-areas="3000 3320 17110 17330" draw:type="non-primitive" draw:enhanced-path="M 1930 7160 C 1530 4490 3400 1970 5270 1970 5860 1950 6470 2210 6970 2600 7450 1390 8340 650 9340 650 10004 690 10710 1050 11210 1700 11570 630 12330 0 13150 0 13840 0 14470 460 14870 1160 15330 440 16020 0 16740 0 17910 0 18900 1130 19110 2710 20240 3150 21060 4580 21060 6220 21060 6720 21000 7200 20830 7660 21310 8460 21600 9450 21600 10460 21600 12750 20310 14680 18650 15010 18650 17200 17370 18920 15770 18920 15220 18920 14700 18710 14240 18310 13820 20240 12490 21600 11000 21600 9890 21600 8840 20790 8210 19510 7620 20000 7930 20290 6240 20290 4850 20290 3570 19280 2900 17640 1300 17600 480 16300 480 14660 480 13900 690 13210 1070 12640 380 12160 0 11210 0 10120 0 8590 840 7330 1930 7160 Z N M 1930 7160 C 1950 7410 2040 7690 2090 7920 F N M 6970 2600 C 7200 2790 7480 3050 7670 3310 F N M 11210 1700 C 11130 1910 11080 2160 11030 2400 F N M 14870 1160 C 14720 1400 14640 1720 14540 2010 F N M 19110 2710 C 19130 2890 19230 3290 19190 3380 F N M 20830 7660 C 20660 8170 20430 8620 20110 8990 F N M 18660 15010 C 18740 14200 18280 12200 17000 11450 F N M 14240 18310 C 14320 17980 14350 17680 14370 17360 F N M 8220 19510 C 8060 19250 7960 18950 7860 18640 F N M 2900 17640 C 3090 17600 3280 17540 3460 17450 F N M 1070 12640 C 1400 12900 1780 13130 2330 13040 F N"/>
     </draw:custom-shape>
     <draw:frame presentation:style-name="pr16" draw:text-style-name="P35" draw:layer="layout" svg:width="25.4cm" svg:height="2.901cm" svg:x="4.233cm" svg:y="0.202cm" presentation:class="title" presentation:user-transformed="true">
@@ -13388,7 +13468,7 @@
      <draw:text-box>
       <text:list text:style-name="L6">
        <text:list-item>
-        <text:p text:style-name="P27"><text:span text:style-name="T12">A Python 3 implementation of GRASP and its API as </text:span><text:span text:style-name="T74">graspi.py</text:span></text:p>
+        <text:p text:style-name="P27"><text:span text:style-name="T12">A Python 3 implementation of GRASP and its API as </text:span><text:span text:style-name="T75">graspi.py</text:span></text:p>
        </text:list-item>
        <text:list-item>
         <text:p text:style-name="P42"><text:span text:style-name="T12">About 2600 lines of code</text:span></text:p>
@@ -13447,7 +13527,7 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p text:style-name="P92"><text:span text:style-name="T12"/></text:p>
+        <text:p text:style-name="P93"><text:span text:style-name="T12"/></text:p>
        </text:list-header>
       </text:list>
       <text:list text:style-name="L6">
